@@ -27,15 +27,7 @@ if __name__ == "__main__":
     limit = 2
 
     primes = get_primes(network)
-    nodes = ['AJ_b1', 'AJ_b2', 'AKT', 'BCat', 'BCat_AJ', 'CK1', 'CSL', 'DELTA', 'DVL', 'ECM', 'ECad', 'ECad_AJ_b1', 'ECad_AJ_b2', 'EGF',
-             'EGFR', 'ERK', 'FAK_SRC_b1', 'FAK_SRC_b2', 'FAT4', 'FAT4_L', 'FA_b1', 'FA_b2', 'FA_b3', 'GSK3B', 'HGF', 'HGFR', 'HIF1a', 'IL6',
-             'ILK', 'ITG_AB', 'JAK', 'JNK', 'LATS', 'MEK', 'NFkB', 'NOTCH', 'PAK', 'PI3K', 'RAF1', 'RAP1', 'RAS', 'ROS', 'RPTP', 'RPTP_L',
-             'SLUG', 'SMAD', 'SNAIL', 'STAT3', 'TCF_LEF', 'TGFB', 'TGFBR', 'WNT', 'YAP_TAZ', 'ZEB', 'miR200', 'p120_AJ']
-    nodes.remove('BCat')
-    nodes.remove('CSL')
-    nodes.remove('SMAD')
-    nodes.remove('TCF_LEF')
-    nodes.remove('miR200')
+   
     
     control_strategies = compute_control_strategies_with_model_checking(
         primes=primes,
@@ -44,7 +36,7 @@ if __name__ == "__main__":
         limit=limit,
         starting_length=lower_limit,
         known_strategies=[],
-        avoid_nodes=['AJ_b1','AJ_b2','FA_b1','FA_b2','FA_b3','BCat','CSL','SMAD','TCF_LEF','miR200'])
+        avoid_nodes=['AJ_b1','AJ_b2','FA_b1','FA_b2','FA_b3'])
     
     
     
