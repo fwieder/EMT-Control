@@ -1,0 +1,190 @@
+{
+    "cs3": {
+        "n1_e2": [
+            {
+                "FAK_SRC_b1": 0,
+                "PI3K|PAK": 0,
+                "ZEB|ECad": 1
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "RAS|PI3K": 0,
+                "SLUG|ECad": 1
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "RAS|PI3K": 0,
+                "ZEB|ECad": 1
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "PI3K|PAK": 0,
+                "SLUG|ECad": 1
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "PI3K|PAK": 0,
+                "TGFB|TGFBR": 1
+            }
+        ],
+        "n2_e1": [
+            {
+                "FAK_SRC_b1": 0,
+                "TGFB": 1,
+                "PI3K|PAK": 0
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "SLUG": 1,
+                "PI3K|PAK": 0
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "SNAIL": 1,
+                "PI3K|PAK": 0
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "TGFBR": 1,
+                "PI3K|PAK": 0
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "SNAIL": 1,
+                "RAS|PI3K": 0
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "ZEB": 1,
+                "RAS|PI3K": 0
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "SLUG": 1,
+                "RAS|PI3K": 0
+            },
+            {
+                "ECad": 0,
+                "FAK_SRC_b1": 0,
+                "RAS|PI3K": 0
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "ZEB": 1,
+                "PI3K|PAK": 0
+            },
+            {
+                "ECad": 0,
+                "FAK_SRC_b1": 0,
+                "PI3K|PAK": 0
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "RAS": 0,
+                "SLUG|ECad": 1
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "RAS": 0,
+                "ZEB|ECad": 1
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "PAK": 0,
+                "ZEB|ECad": 1
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "PAK": 0,
+                "SLUG|ECad": 1
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "PI3K": 0,
+                "ZEB|ECad": 1
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "PI3K": 0,
+                "SLUG|ECad": 1
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "PAK": 0,
+                "TGFB|TGFBR": 1
+            }
+        ],
+        "n3_e0": [
+            {
+                "FAK_SRC_b1": 0,
+                "RAS": 0,
+                "SNAIL": 1
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "RAS": 0,
+                "ZEB": 1
+            },
+            {
+                "ECad": 0,
+                "FAK_SRC_b1": 0,
+                "RAS": 0
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "RAS": 0,
+                "SLUG": 1
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "PAK": 0,
+                "TGFB": 1
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "PAK": 0,
+                "TGFBR": 1
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "PAK": 0,
+                "ZEB": 1
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "PAK": 0,
+                "SNAIL": 1
+            },
+            {
+                "ECad": 0,
+                "FAK_SRC_b1": 0,
+                "PAK": 0
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "PAK": 0,
+                "SLUG": 1
+            },
+            {
+                "ECad": 0,
+                "FAK_SRC_b1": 0,
+                "PI3K": 0
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "PI3K": 0,
+                "SNAIL": 1
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "PI3K": 0,
+                "ZEB": 1
+            },
+            {
+                "FAK_SRC_b1": 0,
+                "PI3K": 0,
+                "SLUG": 1
+            }
+        ]
+    }
+}

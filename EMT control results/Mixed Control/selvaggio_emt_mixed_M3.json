@@ -1,0 +1,4033 @@
+{
+    "cs3": {
+        "n0_e3": [
+            {
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b2|RPTP": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b2|RPTP": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "EGF|EGFR": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ROS|RPTP": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "EGF|EGFR": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "RPTP_L|RPTP": 0,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "BCat|TCF_LEF": 0,
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "BCat|TCF_LEF": 0,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "BCat|TCF_LEF": 0,
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "BCat|TCF_LEF": 0,
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "BCat|TCF_LEF": 0,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "BCat|TCF_LEF": 0,
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "RPTP|EGFR": 0,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b2|RPTP": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "JNK|SNAIL": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "SLUG|ECad": 1
+            },
+            {
+                "CSL|SNAIL": 1,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "CSL|SNAIL": 1,
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "JNK|SNAIL": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "HGF|HGFR": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "HGF|HGFR": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "RPTP_L|RPTP": 0,
+                "TGFBR|EGFR": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ROS|RPTP": 1,
+                "TGFBR|EGFR": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "FAK_SRC_b2|RPTP": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "JNK|SNAIL": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "CSL|SNAIL": 1,
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1,
+                "SLUG|ECad": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ITG_AB|HGFR": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ITG_AB|HGFR": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "SLUG|ECad": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "JNK|SNAIL": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "CSL|SNAIL": 1,
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "SLUG|ECad": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "JNK|SNAIL": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "CSL|SNAIL": 1,
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "FAK_SRC_b2|RPTP": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "SLUG|ECad": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "JNK|SNAIL": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "CSL|SNAIL": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b2|RPTP": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "SLUG|ECad": 1
+            }
+        ],
+        "n1_e2": [
+            {
+                "ECM": 1,
+                "BCat|TCF_LEF": 0,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "ITG_AB|HGFR": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "EGF|EGFR": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "HGF|HGFR": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "RPTP_L|RPTP": 0,
+                "TGFBR|EGFR": 1
+            },
+            {
+                "ECM": 1,
+                "EGF|EGFR": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "HGF|HGFR": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "ROS|RPTP": 1,
+                "TGFBR|EGFR": 1
+            },
+            {
+                "ECM": 1,
+                "ITG_AB|HGFR": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1|ITG_AB": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1|ITG_AB": 1,
+                "SLUG|ECad": 1
+            },
+            {
+                "EGF": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "HGF": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "EGF": 1,
+                "ECM|ITG_AB": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "HGF": 1,
+                "ECM|ITG_AB": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "RAP1": 1,
+                "ECM|ITG_AB": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "RAP1": 1,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b2|RPTP": 1
+            },
+            {
+                "RAP1": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "RAP1": 1,
+                "ECM|ITG_AB": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "RAP1|ITG_AB": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "ECM": 1,
+                "RAP1|ITG_AB": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "ITG_AB": 1,
+                "EGFR|FAK_SRC_b2": 1,
+                "HGFR|FAK_SRC_b2": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1|ITG_AB": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "ECM": 1,
+                "CSL|SNAIL": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "TGFBR": 1,
+                "ECM|ITG_AB": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "BCat|TCF_LEF": 0,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "SLUG|ECad": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "ITG_AB": 1,
+                "DELTA|NOTCH": 1,
+                "LATS|YAP_TAZ": 1
+            },
+            {
+                "ITG_AB": 1,
+                "SLUG|ZEB": 1,
+                "miR200|ZEB": 0
+            },
+            {
+                "ITG_AB": 1,
+                "DELTA|NOTCH": 1,
+                "DVL|CSL": 0
+            },
+            {
+                "ITG_AB": 1,
+                "DELTA|NOTCH": 1,
+                "YAP_TAZ|DVL": 0
+            },
+            {
+                "ITG_AB": 1,
+                "DVL|CSL": 0,
+                "NOTCH|CSL": 1
+            },
+            {
+                "ITG_AB": 1,
+                "LATS|YAP_TAZ": 1,
+                "NOTCH|CSL": 1
+            },
+            {
+                "ITG_AB": 1,
+                "NOTCH|CSL": 1,
+                "YAP_TAZ|DVL": 0
+            },
+            {
+                "HGFR": 1,
+                "BCat|TCF_LEF": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "TGFBR": 1,
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "SLUG": 1,
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ZEB": 1,
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "SMAD": 1,
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "TGFB": 1,
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "FAK_SRC_b2": 1,
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "BCat|TCF_LEF": 0,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "ECM": 1,
+                "BCat|TCF_LEF": 0,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "ECM": 1,
+                "BCat|TCF_LEF": 0,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "ECM": 1,
+                "BCat|TCF_LEF": 0,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "RAP1": 1,
+                "BCat|TCF_LEF": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "TGFB": 1,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "ZEB": 1,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "SMAD": 1,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "TGFBR": 1,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "SLUG": 1,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "TGFB": 1,
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "SMAD": 1,
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "TGFBR": 1,
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ZEB": 1,
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "SLUG": 1,
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "HGFR": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "RAP1": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "RPTP_L": 0,
+                "ECM|ITG_AB": 1,
+                "EGF|EGFR": 1
+            },
+            {
+                "RPTP_L": 0,
+                "ECM|ITG_AB": 1,
+                "HGF|HGFR": 1
+            },
+            {
+                "RPTP_L": 0,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "RPTP_L": 0,
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "RPTP_L": 0,
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ZEB": 1,
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "SMAD": 1,
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "TGFB": 1,
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "SLUG": 1,
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "TGFBR": 1,
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "RPTP_L": 0,
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "BCat|TCF_LEF": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "RPTP_L": 0,
+                "ECM|ITG_AB": 1,
+                "ITG_AB|HGFR": 1
+            },
+            {
+                "ZEB": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "SMAD": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "TGFB": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "TGFBR": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "SLUG": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "RPTP_L": 0,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "FAK_SRC_b2": 1,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "FAK_SRC_b2": 1,
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "FAK_SRC_b2": 1,
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "FAK_SRC_b2": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ZEB": 1,
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "SMAD": 1,
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "TGFB": 1,
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "TGFBR": 1,
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "SLUG": 1,
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "RPTP_L": 0,
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "FAK_SRC_b2": 1,
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "RPTP_L": 0,
+                "ECM|ITG_AB": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "FAK_SRC_b2|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1|ITG_AB": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b2|RPTP": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1|ITG_AB": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "RAP1|ITG_AB": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "TGFBR": 1,
+                "ECM|ITG_AB": 1,
+                "RPTP|EGFR": 0
+            },
+            {
+                "ITG_AB": 1,
+                "DELTA|NOTCH": 1,
+                "WNT|CK1": 0
+            },
+            {
+                "TGFB": 1,
+                "ECM|ITG_AB": 1,
+                "RPTP|EGFR": 0
+            },
+            {
+                "HGFR": 1,
+                "ECM|ITG_AB": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "HGFR": 1,
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b2": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "HGFR": 1,
+                "ECM|ITG_AB": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "HGFR": 1,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b2|RPTP": 1
+            },
+            {
+                "RAP1": 1,
+                "ECM|ITG_AB": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "CSL": 1,
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ITG_AB": 1,
+                "SNAIL|ECad": 1,
+                "miR200|ECad": 0
+            },
+            {
+                "ITG_AB": 1,
+                "CK1|DVL": 0,
+                "DELTA|NOTCH": 1
+            },
+            {
+                "HGFR": 1,
+                "ECM|ITG_AB": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "RAP1": 1,
+                "ECM|ITG_AB": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1|ITG_AB": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1|ITG_AB": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "ECM": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b2|RPTP": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b2|RPTP": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "HGFR": 1,
+                "ECM|ITG_AB": 1,
+                "JNK|SNAIL": 1
+            },
+            {
+                "HGFR": 1,
+                "ECM|ITG_AB": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "HGFR": 1,
+                "ECM|ITG_AB": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "RAP1": 1,
+                "ECM|ITG_AB": 1,
+                "JNK|SNAIL": 1
+            },
+            {
+                "RAP1": 1,
+                "ECM|ITG_AB": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "RAP1": 1,
+                "ECM|ITG_AB": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "HGFR": 1,
+                "ECM|ITG_AB": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "RAP1": 1,
+                "ECM|ITG_AB": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "HGFR": 1,
+                "CSL|SNAIL": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "HGFR": 1,
+                "ECM|ITG_AB": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "HGFR": 1,
+                "ECM|ITG_AB": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "HGFR": 1,
+                "ECM|ITG_AB": 1,
+                "SLUG|ECad": 1
+            },
+            {
+                "RAP1": 1,
+                "CSL|SNAIL": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "RAP1": 1,
+                "ECM|ITG_AB": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "RAP1": 1,
+                "ECM|ITG_AB": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "RAP1": 1,
+                "ECM|ITG_AB": 1,
+                "SLUG|ECad": 1
+            },
+            {
+                "CSL": 1,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "JNK": 1,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "miR200": 0,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "SNAIL": 1,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "BCat": 0,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "ECad": 0,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "TCF_LEF": 0,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1|ITG_AB": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "ECM": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "ECM": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "ECM": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "ECM": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "miR200": 0,
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "JNK": 1,
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "miR200": 0,
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "CSL": 1,
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "JNK": 1,
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1|ITG_AB": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "ECM": 1,
+                "JNK|SNAIL": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1|ITG_AB": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "ECM": 1,
+                "CSL|SNAIL": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "JNK|SNAIL": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1|RAP1": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "RPTP_L": 0,
+                "ECM|ITG_AB": 1,
+                "TGFBR|EGFR": 1
+            },
+            {
+                "SNAIL": 1,
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "BCat": 0,
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "TCF_LEF": 0,
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "CSL|SNAIL": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "ECM": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "ECM": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "JNK|SNAIL": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "HGFR": 1,
+                "ECM|ITG_AB": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "RAP1": 1,
+                "ECM|ITG_AB": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "ECM": 1,
+                "RPTP|EGFR": 0,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP_L|RPTP": 0,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "ROS|RPTP": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "EGFR": 1,
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b2": 1
+            },
+            {
+                "EGFR": 1,
+                "ECM|ITG_AB": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "EGFR": 1,
+                "BCat|TCF_LEF": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "EGFR": 1,
+                "ECM|ITG_AB": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "EGFR": 1,
+                "ECM|ITG_AB": 1,
+                "SLUG|ECad": 1
+            },
+            {
+                "EGFR": 1,
+                "ECM|ITG_AB": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "EGFR": 1,
+                "ECM|ITG_AB": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "EGFR": 1,
+                "ECM|ITG_AB": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "EGFR": 1,
+                "CSL|SNAIL": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "EGFR": 1,
+                "ECM|ITG_AB": 1,
+                "JNK|SNAIL": 1
+            },
+            {
+                "EGFR": 1,
+                "ECM|ITG_AB": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "EGFR": 1,
+                "ECM|ITG_AB": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "EGFR": 1,
+                "ECM|ITG_AB": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "EGFR": 1,
+                "ECM|ITG_AB": 1,
+                "RPTP|HGFR": 0
+            },
+            {
+                "EGFR": 1,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b2|RPTP": 1
+            },
+            {
+                "EGFR": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "RPTP": 0,
+                "ECM|ITG_AB": 1,
+                "EGF|EGFR": 1
+            },
+            {
+                "RPTP": 0,
+                "ECM|ITG_AB": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "EGFR": 1,
+                "ECM|ITG_AB": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "TGFB": 1,
+                "ECM|ITG_AB": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "HGFR": 1,
+                "ECM|ITG_AB": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "EGFR": 1,
+                "ECM|ITG_AB": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "TGFBR": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "TGFB": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "HGFR": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "EGFR": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "RPTP": 0,
+                "ECM|ITG_AB": 1,
+                "HGF|HGFR": 1
+            },
+            {
+                "RPTP": 0,
+                "ECM|ITG_AB": 1,
+                "TGFBR|EGFR": 1
+            },
+            {
+                "RPTP": 0,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "SNAIL": 1,
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "TCF_LEF": 0,
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECad": 0,
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "BCat": 0,
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "RPTP": 0,
+                "ECM|ITG_AB": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "RPTP": 0,
+                "ECM|ITG_AB": 1,
+                "ITG_AB|HGFR": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "ECM|ITG_AB": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "ECM|ITG_AB": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "ECM|ITG_AB": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "ECM|ITG_AB": 1,
+                "JNK|SNAIL": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "ECM|ITG_AB": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "ECM|ITG_AB": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "ECM|ITG_AB": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "CSL|SNAIL": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "ECM|ITG_AB": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "ECM|ITG_AB": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "ECM|ITG_AB": 1,
+                "SLUG|ECad": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "ECM|ITG_AB": 1,
+                "FAK_SRC_b2|RPTP": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "ECM|ITG_AB": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "ECM|ITG_AB": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "JNK|SNAIL": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "ECM": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "ECM": 1,
+                "CSL|SNAIL": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "ECM": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "SLUG|ECad": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "ECM": 1,
+                "HGFR|FAK_SRC_b1": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECad": 0,
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "RPTP": 0,
+                "ECM|ITG_AB": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "ECM": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "JNK|SNAIL": 1
+            },
+            {
+                "ECM": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "ECM": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "ECM": 1,
+                "CSL|SNAIL": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "ECM": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "SLUG|ECad": 1
+            },
+            {
+                "JNK": 1,
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "CSL": 1,
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "miR200": 0,
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "BCat": 0,
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "SNAIL": 1,
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "TCF_LEF": 0,
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECad": 0,
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "RPTP": 0,
+                "ECM|ITG_AB": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "ITG_AB|FAK_SRC_b1": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "FAK_SRC_b2|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "ECM": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "SLUG|ECad": 1
+            },
+            {
+                "BCat": 0,
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "JNK": 1,
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "miR200": 0,
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "CSL": 1,
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "SNAIL": 1,
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "TCF_LEF": 0,
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "RPTP": 0,
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECad": 0,
+                "ECM|ITG_AB": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR|FAK_SRC_b1": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "ECM": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "JNK|SNAIL": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "ECM": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "ECM": 1,
+                "CSL|SNAIL": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b2|RPTP": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "ECM": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "ROS|FAK_SRC_b1": 1,
+                "SLUG|ECad": 1
+            },
+            {
+                "JNK": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "miR200": 0,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "CSL": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "SNAIL": 1,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "TCF_LEF": 0,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "BCat": 0,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "RPTP": 0,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECad": 0,
+                "ECM|ITG_AB": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ITG_AB": 1,
+                "NOTCH|CSL": 1,
+                "WNT|CK1": 0
+            },
+            {
+                "ITG_AB": 1,
+                "CK1|DVL": 0,
+                "NOTCH|CSL": 1
+            },
+            {
+                "ITG_AB": 1,
+                "EGFR|FAK_SRC_b2": 1,
+                "RPTP|HGFR": 0
+            },
+            {
+                "ITG_AB": 1,
+                "SNAIL|ZEB": 1,
+                "miR200|ZEB": 0
+            }
+        ],
+        "n2_e1": [
+            {
+                "ECM": 1,
+                "TGFB": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "HGFR": 1,
+                "ITG_AB": 1,
+                "EGFR|FAK_SRC_b2": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "BCat|TCF_LEF": 0
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "EGFR|FAK_SRC_b2": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "SLUG|ECad": 1
+            },
+            {
+                "CSL": 1,
+                "ECM": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "ECad": 0,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "ECM": 1,
+                "TGFB": 1,
+                "RPTP|EGFR": 0
+            },
+            {
+                "ECM": 1,
+                "SMAD": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "ZEB": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "JNK": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b2": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP_L": 0,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "BCat|TCF_LEF": 0
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "SLUG|ECad": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "HGFR|FAK_SRC_b2": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "EGFR": 1,
+                "ITG_AB": 1,
+                "HGFR|FAK_SRC_b2": 1
+            },
+            {
+                "ECM": 1,
+                "SNAIL": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "CSL|SNAIL": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "CSL|SNAIL": 1
+            },
+            {
+                "BCat": 0,
+                "RAP1": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "DELTA": 1,
+                "ITG_AB": 1,
+                "YAP_TAZ|DVL": 0
+            },
+            {
+                "DELTA": 1,
+                "ITG_AB": 1,
+                "DVL|CSL": 0
+            },
+            {
+                "ITG_AB": 1,
+                "NOTCH": 1,
+                "WNT|CK1": 0
+            },
+            {
+                "DELTA": 1,
+                "ITG_AB": 1,
+                "WNT|CK1": 0
+            },
+            {
+                "ITG_AB": 1,
+                "NOTCH": 1,
+                "YAP_TAZ|DVL": 0
+            },
+            {
+                "ITG_AB": 1,
+                "NOTCH": 1,
+                "DVL|CSL": 0
+            },
+            {
+                "ECM": 1,
+                "ZEB": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "ECM": 1,
+                "SMAD": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "ECM": 1,
+                "JNK": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "BCat|TCF_LEF": 0
+            },
+            {
+                "ECM": 1,
+                "RPTP_L": 0,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "SLUG|ECad": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "CSL": 1,
+                "ECM": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "ECM": 1,
+                "TGFB": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b2": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "ECM": 1,
+                "ECad": 0,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "ITG_AB": 1,
+                "LATS": 1,
+                "DELTA|NOTCH": 1
+            },
+            {
+                "ITG_AB": 1,
+                "WNT": 0,
+                "DELTA|NOTCH": 1
+            },
+            {
+                "ITG_AB": 1,
+                "YAP_TAZ": 0,
+                "DELTA|NOTCH": 1
+            },
+            {
+                "DELTA": 1,
+                "ITG_AB": 1,
+                "LATS|YAP_TAZ": 1
+            },
+            {
+                "ITG_AB": 1,
+                "NOTCH": 1,
+                "LATS|YAP_TAZ": 1
+            },
+            {
+                "ITG_AB": 1,
+                "NOTCH": 1,
+                "CK1|DVL": 0
+            },
+            {
+                "DELTA": 1,
+                "ITG_AB": 1,
+                "CK1|DVL": 0
+            },
+            {
+                "CK1": 0,
+                "ITG_AB": 1,
+                "DELTA|NOTCH": 1
+            },
+            {
+                "DVL": 0,
+                "ITG_AB": 1,
+                "DELTA|NOTCH": 1
+            },
+            {
+                "ITG_AB": 1,
+                "WNT": 0,
+                "NOTCH|CSL": 1
+            },
+            {
+                "ITG_AB": 1,
+                "LATS": 1,
+                "NOTCH|CSL": 1
+            },
+            {
+                "CK1": 0,
+                "ITG_AB": 1,
+                "NOTCH|CSL": 1
+            },
+            {
+                "DVL": 0,
+                "ITG_AB": 1,
+                "NOTCH|CSL": 1
+            },
+            {
+                "ITG_AB": 1,
+                "YAP_TAZ": 0,
+                "NOTCH|CSL": 1
+            },
+            {
+                "HGFR": 1,
+                "TGFBR": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "HGFR": 1,
+                "SLUG": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "HGFR": 1,
+                "ZEB": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "HGFR": 1,
+                "SMAD": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "HGFR": 1,
+                "TGFB": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "FAK_SRC_b2": 1,
+                "HGFR": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "EGF": 1,
+                "RPTP_L": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "HGF": 1,
+                "RPTP_L": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "RPTP_L": 0,
+                "TGFB": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "SLUG": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "ECM": 1,
+                "TGFBR": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP_L": 0,
+                "EGF|EGFR": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP_L": 0,
+                "HGF|HGFR": 1
+            },
+            {
+                "ECM": 1,
+                "SLUG": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "TGFBR": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "SMAD": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "ZEB": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "TGFB": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "SLUG": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "TGFBR": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP_L": 0,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "BCat|TCF_LEF": 0
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "ECM": 1,
+                "TGFB": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "SMAD": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "ZEB": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "TGFBR": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "SLUG": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP_L": 0,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b2": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b2": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "SMAD": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "TGFB": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "ZEB": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "TGFBR": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "SLUG": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP_L": 0,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b2": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "TGFB": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "SMAD": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "ZEB": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "TGFBR": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "SLUG": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP_L": 0,
+                "ITG_AB|HGFR": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP_L": 0,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b2": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "RAP1": 1,
+                "TGFB": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "RAP1": 1,
+                "SMAD": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "RAP1": 1,
+                "TGFBR": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "RAP1": 1,
+                "ZEB": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "RAP1": 1,
+                "SLUG": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "RPTP_L": 0,
+                "TGFBR": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "HGFR": 1,
+                "RPTP_L": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "RAP1": 1,
+                "RPTP_L": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "ZEB": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "SMAD": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "TGFB": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "SLUG": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "TGFBR": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "RPTP_L": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "FAK_SRC_b2": 1,
+                "RAP1": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "FAK_SRC_b2": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "FAK_SRC_b2|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "HGF": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "TGFB": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "EGF": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "FAK_SRC_b2|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "FAK_SRC_b2|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "HGF": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "TGFB": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "EGF": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP_L": 0,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "ECM": 1,
+                "SNAIL": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "CSL": 1,
+                "RAP1": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "CSL": 1,
+                "HGFR": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "CSL": 1,
+                "ECM": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "FAK_SRC_b2|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "CSL": 1,
+                "ECM": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "HGFR": 1,
+                "JNK": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "JNK": 1,
+                "RAP1": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "HGFR": 1,
+                "SNAIL": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "RAP1": 1,
+                "SNAIL": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "HGFR": 1,
+                "miR200": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "RAP1": 1,
+                "miR200": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "JNK|SNAIL": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "BCat": 0,
+                "HGFR": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "HGFR": 1,
+                "TCF_LEF": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "ECad": 0,
+                "HGFR": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "RAP1": 1,
+                "TCF_LEF": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "ECad": 0,
+                "RAP1": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "JNK|SNAIL": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "CSL|SNAIL": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "ECM": 1,
+                "JNK": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "JNK": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "JNK": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "ECM": 1,
+                "JNK": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP_L": 0,
+                "TGFBR|EGFR": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "CSL": 1,
+                "ECM": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "CSL": 1,
+                "ECM": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "miR200": 0,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "miR200": 0,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "miR200": 0,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "miR200": 0,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "miR200": 0,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "miR200": 0,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "BCat": 0,
+                "ECM": 1,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "TCF_LEF": 0,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "BCat": 0,
+                "ECM": 1,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "ECM": 1,
+                "TCF_LEF": 0,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "CSL|SNAIL": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "JNK|SNAIL": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "SLUG|ECad": 1
+            },
+            {
+                "ECM": 1,
+                "SNAIL": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "BCat": 0,
+                "ECM": 1,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "TCF_LEF": 0,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "TGFBR": 1,
+                "RPTP|EGFR": 0
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "JNK|SNAIL": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "ECM": 1,
+                "TGFBR": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "TGFBR": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "RPTP|HGFR": 0
+            },
+            {
+                "ECM": 1,
+                "RPTP": 0,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP": 0,
+                "EGF|EGFR": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP": 0,
+                "HGF|HGFR": 1
+            },
+            {
+                "CSL": 1,
+                "EGFR": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "EGFR": 1,
+                "SMAD": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "EGFR": 1,
+                "JNK": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "EGFR": 1,
+                "SLUG": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "EGFR": 1,
+                "TGFB": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "EGFR": 1,
+                "TGFBR": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "EGFR": 1,
+                "TCF_LEF": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "BCat": 0,
+                "EGFR": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "EGFR": 1,
+                "SNAIL": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "EGFR": 1,
+                "ZEB": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "ECad": 0,
+                "EGFR": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "EGFR": 1,
+                "miR200": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "RPTP": 0,
+                "TGFB": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "RPTP": 0,
+                "TGFBR": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "EGFR": 1,
+                "RPTP": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "EGF": 1,
+                "RPTP": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "EGFR": 1,
+                "RPTP_L": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "HGF": 1,
+                "RPTP": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "HGFR": 1,
+                "RPTP": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "EGFR": 1,
+                "HGFR": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "EGFR": 1,
+                "FAK_SRC_b2": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "RAP1": 1,
+                "RPTP": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP": 0,
+                "TGFBR|EGFR": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP": 0,
+                "FAK_SRC_b1|RAP1": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP": 0,
+                "RAP1|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP": 0,
+                "ITG_AB|HGFR": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "ROS|RPTP": 1
+            },
+            {
+                "CSL": 1,
+                "FAK_SRC_b1": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "JNK": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "SNAIL": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "miR200": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "TCF_LEF": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "BCat": 0,
+                "FAK_SRC_b1": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "ECad": 0,
+                "FAK_SRC_b1": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "FAK_SRC_b1": 1,
+                "RPTP": 0,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "SNAIL": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "TCF_LEF": 0,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "ECad": 0,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "BCat": 0,
+                "ECM": 1,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP": 0,
+                "HGFR|FAK_SRC_b1": 1
+            },
+            {
+                "BCat": 0,
+                "ECM": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "SNAIL": 1,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "TCF_LEF": 0,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "ECad": 0,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP": 0,
+                "ITG_AB|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP": 0,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "ECad": 0,
+                "EGFR|FAK_SRC_b1": 1
+            },
+            {
+                "BCat": 0,
+                "ECM": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "SNAIL": 1,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "TCF_LEF": 0,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP": 0,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "ECad": 0,
+                "ROS|FAK_SRC_b1": 1
+            },
+            {
+                "EGFR": 1,
+                "ITG_AB": 1,
+                "RPTP|HGFR": 0
+            }
+        ],
+        "n3_e0": [
+            {
+                "ITG_AB": 1,
+                "LATS": 1,
+                "NOTCH": 1
+            },
+            {
+                "ITG_AB": 1,
+                "NOTCH": 1,
+                "WNT": 0
+            },
+            {
+                "EGFR": 1,
+                "HGFR": 1,
+                "ITG_AB": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "SMAD": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "JNK": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "ZEB": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "FAK_SRC_b2": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "RPTP_L": 0
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "TGFB": 1
+            },
+            {
+                "CSL": 1,
+                "ECM": 1,
+                "HGFR": 1
+            },
+            {
+                "ECM": 1,
+                "ECad": 0,
+                "HGFR": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "SMAD": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "ZEB": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "JNK": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b2": 1,
+                "HGFR": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP_L": 0,
+                "TGFB": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "RPTP_L": 0
+            },
+            {
+                "CSL": 1,
+                "ECM": 1,
+                "EGFR": 1
+            },
+            {
+                "ECM": 1,
+                "ECad": 0,
+                "EGFR": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "TGFB": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "HGFR": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "SNAIL": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "SNAIL": 1
+            },
+            {
+                "DELTA": 1,
+                "ITG_AB": 1,
+                "WNT": 0
+            },
+            {
+                "CK1": 0,
+                "ITG_AB": 1,
+                "NOTCH": 1
+            },
+            {
+                "DELTA": 1,
+                "DVL": 0,
+                "ITG_AB": 1
+            },
+            {
+                "CK1": 0,
+                "DELTA": 1,
+                "ITG_AB": 1
+            },
+            {
+                "DVL": 0,
+                "ITG_AB": 1,
+                "NOTCH": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "ZEB": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "SMAD": 1
+            },
+            {
+                "ECM": 1,
+                "JNK": 1,
+                "RAP1": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "RPTP_L": 0
+            },
+            {
+                "ECM": 1,
+                "HGF": 1,
+                "RPTP_L": 0
+            },
+            {
+                "CSL": 1,
+                "ECM": 1,
+                "RAP1": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "TGFB": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b2": 1,
+                "RAP1": 1
+            },
+            {
+                "ECM": 1,
+                "ECad": 0,
+                "RAP1": 1
+            },
+            {
+                "DELTA": 1,
+                "ITG_AB": 1,
+                "LATS": 1
+            },
+            {
+                "DELTA": 1,
+                "ITG_AB": 1,
+                "YAP_TAZ": 0
+            },
+            {
+                "ITG_AB": 1,
+                "NOTCH": 1,
+                "YAP_TAZ": 0
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "SLUG": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "SLUG": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "RPTP_L": 0,
+                "TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "EGF": 1,
+                "RPTP_L": 0
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "SMAD": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "ZEB": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "TGFB": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "SLUG": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "RPTP_L": 0
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "FAK_SRC_b2": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "SNAIL": 1
+            },
+            {
+                "CSL": 1,
+                "ECM": 1,
+                "FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "miR200": 0
+            },
+            {
+                "BCat": 0,
+                "ECM": 1,
+                "HGFR": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "TCF_LEF": 0
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "miR200": 0
+            },
+            {
+                "BCat": 0,
+                "ECM": 1,
+                "RAP1": 1
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "TCF_LEF": 0
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "JNK": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "miR200": 0
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "SNAIL": 1
+            },
+            {
+                "BCat": 0,
+                "ECM": 1,
+                "FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "TCF_LEF": 0
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "SLUG": 1
+            },
+            {
+                "BCat": 0,
+                "ECM": 1,
+                "EGFR": 1
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "TCF_LEF": 0
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "miR200": 0
+            },
+            {
+                "ECM": 1,
+                "RPTP": 0,
+                "TGFB": 1
+            },
+            {
+                "ECM": 1,
+                "HGFR": 1,
+                "RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "RPTP": 0,
+                "TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "HGF": 1,
+                "RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "EGF": 1,
+                "RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "RAP1": 1,
+                "RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "EGFR": 1,
+                "RPTP": 0
+            },
+            {
+                "ECM": 1,
+                "ECad": 0,
+                "FAK_SRC_b1": 1
+            },
+            {
+                "ECM": 1,
+                "FAK_SRC_b1": 1,
+                "RPTP": 0
+            }
+        ]
+    },
+    "cs2": {
+        "n2_e0": [
+            {
+                "ITG_AB": 1,
+                "SMAD": 1
+            },
+            {
+                "ITG_AB": 1,
+                "JNK": 1
+            },
+            {
+                "ITG_AB": 1,
+                "ZEB": 1
+            },
+            {
+                "ITG_AB": 1,
+                "SLUG": 1
+            },
+            {
+                "ITG_AB": 1,
+                "SNAIL": 1
+            },
+            {
+                "FAK_SRC_b2": 1,
+                "ITG_AB": 1
+            },
+            {
+                "ITG_AB": 1,
+                "RPTP_L": 0
+            },
+            {
+                "ITG_AB": 1,
+                "TGFBR": 1
+            },
+            {
+                "ECM": 1,
+                "ROS": 1
+            },
+            {
+                "ITG_AB": 1,
+                "ROS": 1
+            },
+            {
+                "CSL": 1,
+                "ITG_AB": 1
+            },
+            {
+                "ECad": 0,
+                "ITG_AB": 1
+            },
+            {
+                "ITG_AB": 1,
+                "TGFB": 1
+            },
+            {
+                "BCat": 0,
+                "ITG_AB": 1
+            },
+            {
+                "ITG_AB": 1,
+                "miR200": 0
+            },
+            {
+                "ITG_AB": 1,
+                "RPTP": 0
+            },
+            {
+                "ITG_AB": 1,
+                "TCF_LEF": 0
+            }
+        ],
+        "n1_e1": [
+            {
+                "ITG_AB": 1,
+                "miR200|SLUG": 0
+            },
+            {
+                "ITG_AB": 1,
+                "TCF_LEF|SNAIL": 0
+            },
+            {
+                "ITG_AB": 1,
+                "ROS|FAK_SRC_b2": 1
+            },
+            {
+                "ITG_AB": 1,
+                "CSL|SNAIL": 1
+            },
+            {
+                "ITG_AB": 1,
+                "BCat|TCF_LEF": 0
+            },
+            {
+                "ITG_AB": 1,
+                "ZEB|ECad": 1
+            },
+            {
+                "ITG_AB": 1,
+                "SLUG|ECad": 1
+            },
+            {
+                "ITG_AB": 1,
+                "RPTP|JNK": 0
+            },
+            {
+                "ITG_AB": 1,
+                "JNK|SNAIL": 1
+            },
+            {
+                "ITG_AB": 1,
+                "TGFB|TGFBR": 1
+            },
+            {
+                "ROS": 1,
+                "ECM|ITG_AB": 1
+            },
+            {
+                "ITG_AB": 1,
+                "ZEB|miR200": 1
+            },
+            {
+                "ITG_AB": 1,
+                "FAK_SRC_b2|RPTP": 1
+            },
+            {
+                "ITG_AB": 1,
+                "TGFBR|SMAD": 1
+            },
+            {
+                "ITG_AB": 1,
+                "SNAIL|miR200": 1
+            },
+            {
+                "ITG_AB": 1,
+                "RPTP_L|RPTP": 0
+            },
+            {
+                "ITG_AB": 1,
+                "SMAD|SNAIL": 1
+            },
+            {
+                "ITG_AB": 1,
+                "ROS|RPTP": 1
+            }
+        ]
+    }
+}
