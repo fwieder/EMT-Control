@@ -1,0 +1,120 @@
+{
+  "cs": [
+    {
+      "ECad": 0
+    },
+    {
+      "ROS": 1
+    },
+    {
+      "SNAIL": 1
+    },
+    {
+      "SLUG": 1
+    },
+    {
+      "TGFBR": 1
+    },
+    {
+      "TGFB": 1
+    },
+    {
+      "ZEB": 1
+    },
+    {
+      "SMAD": 1
+    },
+    {
+      "BCat": 0
+    },
+    {
+      "CSL": 1
+    },
+    {
+      "TCF_LEF": 0
+    },
+    {
+      "miR200": 0
+    },
+    {
+      "AKT": 1,
+      "JNK": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "PAK": 0
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "PI3K": 0
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "RAS": 0
+    },
+    {
+      "FAK_SRC_b2": 1,
+      "ITG_AB": 1
+    },
+    {
+      "DELTA": 1,
+      "LATS": 1
+    },
+    {
+      "ITG_AB": 1,
+      "JNK": 1
+    },
+    {
+      "ITG_AB": 1,
+      "RPTP": 0
+    },
+    {
+      "ITG_AB": 1,
+      "RPTP_L": 0
+    },
+    {
+      "DELTA": 1,
+      "WNT": 0
+    },
+    {
+      "JNK": 1,
+      "NFkB": 1
+    },
+    {
+      "DELTA": 1,
+      "YAP_TAZ": 0
+    },
+    {
+      "ILK": 1,
+      "JNK": 1
+    },
+    {
+      "CK1": 0,
+      "NOTCH": 1
+    },
+    {
+      "CK1": 0,
+      "DELTA": 1
+    },
+    {
+      "NOTCH": 1,
+      "YAP_TAZ": 0
+    },
+    {
+      "LATS": 1,
+      "NOTCH": 1
+    },
+    {
+      "NOTCH": 1,
+      "WNT": 0
+    },
+    {
+      "DELTA": 1,
+      "DVL": 0
+    },
+    {
+      "DVL": 0,
+      "NOTCH": 1
+    }
+  ]
+}

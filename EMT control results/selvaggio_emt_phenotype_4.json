@@ -1,0 +1,583 @@
+{
+  "cs2": [
+    {
+      "FAK_SRC_b1": 0,
+      "TGFB": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "TGFBR": 1
+    },
+    {
+      "PAK": 0,
+      "ROS": 1
+    }
+  ],
+  "cs3": [
+    {
+      "BCat": 0,
+      "EGFR": 1,
+      "FAK_SRC_b1": 0
+    },
+    {
+      "BCat": 0,
+      "EGFR": 1,
+      "PAK": 0
+    },
+    {
+      "BCat": 0,
+      "FAK_SRC_b1": 0,
+      "HGFR": 1
+    },
+    {
+      "BCat": 0,
+      "FAK_SRC_b1": 0,
+      "IL6": 1
+    },
+    {
+      "BCat": 0,
+      "FAK_SRC_b1": 0,
+      "JAK": 1
+    },
+    {
+      "BCat": 0,
+      "FAK_SRC_b1": 1,
+      "PAK": 0
+    },
+    {
+      "BCat": 0,
+      "FAK_SRC_b1": 0,
+      "RAS": 1
+    },
+    {
+      "BCat": 0,
+      "HGFR": 1,
+      "PAK": 0
+    },
+    {
+      "BCat": 0,
+      "ITG_AB": 1,
+      "PAK": 0
+    },
+    {
+      "CSL": 1,
+      "EGFR": 1,
+      "FAK_SRC_b1": 0
+    },
+    {
+      "CSL": 1,
+      "EGFR": 1,
+      "PAK": 0
+    },
+    {
+      "CSL": 1,
+      "FAK_SRC_b1": 0,
+      "HGFR": 1
+    },
+    {
+      "CSL": 1,
+      "FAK_SRC_b1": 0,
+      "IL6": 1
+    },
+    {
+      "CSL": 1,
+      "FAK_SRC_b1": 0,
+      "JAK": 1
+    },
+    {
+      "CSL": 1,
+      "FAK_SRC_b1": 1,
+      "PAK": 0
+    },
+    {
+      "CSL": 1,
+      "FAK_SRC_b1": 0,
+      "RAS": 1
+    },
+    {
+      "CSL": 1,
+      "HGFR": 1,
+      "PAK": 0
+    },
+    {
+      "CSL": 1,
+      "ITG_AB": 1,
+      "PAK": 0
+    },
+    {
+      "ECad": 0,
+      "EGFR": 1,
+      "FAK_SRC_b1": 0
+    },
+    {
+      "ECad": 0,
+      "EGFR": 1,
+      "PAK": 0
+    },
+    {
+      "ECad": 0,
+      "FAK_SRC_b1": 0,
+      "HGFR": 1
+    },
+    {
+      "ECad": 0,
+      "FAK_SRC_b1": 0,
+      "IL6": 1
+    },
+    {
+      "ECad": 0,
+      "FAK_SRC_b1": 0,
+      "JAK": 1
+    },
+    {
+      "ECad": 0,
+      "FAK_SRC_b1": 1,
+      "PAK": 0
+    },
+    {
+      "ECad": 0,
+      "FAK_SRC_b1": 0,
+      "PAK": 1
+    },
+    {
+      "ECad": 0,
+      "FAK_SRC_b1": 0,
+      "PI3K": 1
+    },
+    {
+      "ECad": 0,
+      "FAK_SRC_b1": 0,
+      "RAS": 1
+    },
+    {
+      "ECad": 0,
+      "HGFR": 1,
+      "PAK": 0
+    },
+    {
+      "ECad": 0,
+      "ITG_AB": 1,
+      "PAK": 0
+    },
+    {
+      "EGF": 1,
+      "FAK_SRC_b1": 0,
+      "ROS": 1
+    },
+    {
+      "EGFR": 1,
+      "FAK_SRC_b1": 0,
+      "ROS": 1
+    },
+    {
+      "EGFR": 1,
+      "FAK_SRC_b1": 0,
+      "SLUG": 1
+    },
+    {
+      "EGFR": 1,
+      "FAK_SRC_b1": 0,
+      "SMAD": 1
+    },
+    {
+      "EGFR": 1,
+      "FAK_SRC_b1": 0,
+      "SNAIL": 1
+    },
+    {
+      "EGFR": 1,
+      "FAK_SRC_b1": 0,
+      "TCF_LEF": 0
+    },
+    {
+      "EGFR": 1,
+      "FAK_SRC_b1": 0,
+      "ZEB": 1
+    },
+    {
+      "EGFR": 1,
+      "FAK_SRC_b1": 0,
+      "miR200": 0
+    },
+    {
+      "EGFR": 1,
+      "PAK": 0,
+      "SLUG": 1
+    },
+    {
+      "EGFR": 1,
+      "PAK": 0,
+      "SMAD": 1
+    },
+    {
+      "EGFR": 1,
+      "PAK": 0,
+      "SNAIL": 1
+    },
+    {
+      "EGFR": 1,
+      "PAK": 0,
+      "TCF_LEF": 0
+    },
+    {
+      "EGFR": 1,
+      "PAK": 0,
+      "TGFB": 1
+    },
+    {
+      "EGFR": 1,
+      "PAK": 0,
+      "TGFBR": 1
+    },
+    {
+      "EGFR": 1,
+      "PAK": 0,
+      "ZEB": 1
+    },
+    {
+      "EGFR": 1,
+      "PAK": 0,
+      "miR200": 0
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "HGF": 1,
+      "ROS": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "HGFR": 1,
+      "ROS": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "HGFR": 1,
+      "SLUG": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "HGFR": 1,
+      "SMAD": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "HGFR": 1,
+      "SNAIL": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "HGFR": 1,
+      "TCF_LEF": 0
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "HGFR": 1,
+      "ZEB": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "HGFR": 1,
+      "miR200": 0
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "IL6": 1,
+      "ROS": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "IL6": 1,
+      "SLUG": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "IL6": 1,
+      "SMAD": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "IL6": 1,
+      "SNAIL": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "IL6": 1,
+      "TCF_LEF": 0
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "IL6": 1,
+      "ZEB": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "IL6": 1,
+      "miR200": 0
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "ITG_AB": 1,
+      "ROS": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "JAK": 1,
+      "ROS": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "JAK": 1,
+      "SLUG": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "JAK": 1,
+      "SMAD": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "JAK": 1,
+      "SNAIL": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "JAK": 1,
+      "TCF_LEF": 0
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "JAK": 1,
+      "ZEB": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "JAK": 1,
+      "miR200": 0
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "PAK": 1,
+      "SLUG": 1
+    },
+    {
+      "FAK_SRC_b1": 1,
+      "PAK": 0,
+      "SLUG": 1
+    },
+    {
+      "FAK_SRC_b1": 1,
+      "PAK": 0,
+      "SMAD": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "PAK": 1,
+      "SNAIL": 1
+    },
+    {
+      "FAK_SRC_b1": 1,
+      "PAK": 0,
+      "SNAIL": 1
+    },
+    {
+      "FAK_SRC_b1": 1,
+      "PAK": 0,
+      "TCF_LEF": 0
+    },
+    {
+      "FAK_SRC_b1": 1,
+      "PAK": 0,
+      "TGFB": 1
+    },
+    {
+      "FAK_SRC_b1": 1,
+      "PAK": 0,
+      "TGFBR": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "PAK": 1,
+      "ZEB": 1
+    },
+    {
+      "FAK_SRC_b1": 1,
+      "PAK": 0,
+      "ZEB": 1
+    },
+    {
+      "FAK_SRC_b1": 1,
+      "PAK": 0,
+      "miR200": 0
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "PI3K": 1,
+      "SLUG": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "PI3K": 1,
+      "SNAIL": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "PI3K": 1,
+      "ZEB": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "RAS": 1,
+      "ROS": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "RAS": 1,
+      "SLUG": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "RAS": 1,
+      "SMAD": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "RAS": 1,
+      "SNAIL": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "RAS": 1,
+      "TCF_LEF": 0
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "RAS": 1,
+      "ZEB": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "RAS": 1,
+      "miR200": 0
+    },
+    {
+      "FAK_SRC_b2": 1,
+      "ITG_AB": 1,
+      "PAK": 0
+    },
+    {
+      "HGFR": 1,
+      "PAK": 0,
+      "SLUG": 1
+    },
+    {
+      "HGFR": 1,
+      "PAK": 0,
+      "SMAD": 1
+    },
+    {
+      "HGFR": 1,
+      "PAK": 0,
+      "SNAIL": 1
+    },
+    {
+      "HGFR": 1,
+      "PAK": 0,
+      "TCF_LEF": 0
+    },
+    {
+      "HGFR": 1,
+      "PAK": 0,
+      "TGFB": 1
+    },
+    {
+      "HGFR": 1,
+      "PAK": 0,
+      "TGFBR": 1
+    },
+    {
+      "HGFR": 1,
+      "PAK": 0,
+      "ZEB": 1
+    },
+    {
+      "HGFR": 1,
+      "PAK": 0,
+      "miR200": 0
+    },
+    {
+      "ITG_AB": 1,
+      "JNK": 1,
+      "PAK": 0
+    },
+    {
+      "ITG_AB": 1,
+      "PAK": 0,
+      "RPTP": 0
+    },
+    {
+      "ITG_AB": 1,
+      "PAK": 0,
+      "RPTP_L": 0
+    },
+    {
+      "ITG_AB": 1,
+      "PAK": 0,
+      "SLUG": 1
+    },
+    {
+      "ITG_AB": 1,
+      "PAK": 0,
+      "SMAD": 1
+    },
+    {
+      "ITG_AB": 1,
+      "PAK": 0,
+      "SNAIL": 1
+    },
+    {
+      "ITG_AB": 1,
+      "PAK": 0,
+      "TCF_LEF": 0
+    },
+    {
+      "ITG_AB": 1,
+      "PAK": 0,
+      "TGFB": 1
+    },
+    {
+      "ITG_AB": 1,
+      "PAK": 0,
+      "TGFBR": 1
+    },
+    {
+      "ITG_AB": 1,
+      "PAK": 0,
+      "ZEB": 1
+    },
+    {
+      "ITG_AB": 1,
+      "PAK": 0,
+      "miR200": 0
+    },
+    {
+      "PAK": 0,
+      "RPTP": 0,
+      "TGFB": 1
+    },
+    {
+      "PAK": 0,
+      "RPTP": 0,
+      "TGFBR": 1
+    },
+    {
+      "PAK": 0,
+      "RPTP_L": 0,
+      "TGFB": 1
+    },
+    {
+      "PAK": 0,
+      "RPTP_L": 0,
+      "TGFBR": 1
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "cs2": [],
+  "cs3": [],
+  "cs4": [
+    {
+      "BCat_AJ": 1,
+      "ECad": 1,
+      "FAK_SRC_b1": 0,
+      "PAK": 0
+    },
+    {
+      "BCat_AJ": 1,
+      "ECad": 1,
+      "FAK_SRC_b1": 0,
+      "PI3K": 0
+    },
+    {
+      "BCat_AJ": 1,
+      "ECad": 1,
+      "FAK_SRC_b1": 0,
+      "RAS": 0
+    },
+    {
+      "BCat_AJ": 1,
+      "FAK_SRC_b1": 0,
+      "PAK": 0,
+      "miR200": 1
+    },
+    {
+      "BCat_AJ": 1,
+      "FAK_SRC_b1": 0,
+      "PI3K": 0,
+      "miR200": 1
+    },
+    {
+      "BCat_AJ": 1,
+      "FAK_SRC_b1": 0,
+      "RAS": 0,
+      "miR200": 1
+    },
+    {
+      "ECad": 1,
+      "ECad_AJ_b2": 1,
+      "FAK_SRC_b1": 0,
+      "PAK": 0
+    },
+    {
+      "ECad": 1,
+      "ECad_AJ_b2": 1,
+      "FAK_SRC_b1": 0,
+      "PI3K": 0
+    },
+    {
+      "ECad": 1,
+      "ECad_AJ_b2": 1,
+      "FAK_SRC_b1": 0,
+      "RAS": 0
+    },
+    {
+      "ECad": 1,
+      "FAK_SRC_b1": 0,
+      "JNK": 0,
+      "PAK": 0
+    },
+    {
+      "ECad": 1,
+      "FAK_SRC_b1": 0,
+      "JNK": 0,
+      "PI3K": 0
+    },
+    {
+      "ECad": 1,
+      "FAK_SRC_b1": 0,
+      "JNK": 0,
+      "RAS": 0
+    },
+    {
+      "ECad": 1,
+      "FAK_SRC_b1": 0,
+      "PAK": 0,
+      "RPTP": 1
+    },
+    {
+      "ECad": 1,
+      "FAK_SRC_b1": 0,
+      "PI3K": 0,
+      "RPTP": 1
+    },
+    {
+      "ECad": 1,
+      "FAK_SRC_b1": 0,
+      "RAS": 0,
+      "RPTP": 1
+    },
+    {
+      "ECad_AJ_b2": 1,
+      "FAK_SRC_b1": 0,
+      "PAK": 0,
+      "miR200": 1
+    },
+    {
+      "ECad_AJ_b2": 1,
+      "FAK_SRC_b1": 0,
+      "PI3K": 0,
+      "miR200": 1
+    },
+    {
+      "ECad_AJ_b2": 1,
+      "FAK_SRC_b1": 0,
+      "RAS": 0,
+      "miR200": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "JNK": 0,
+      "PAK": 0,
+      "miR200": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "JNK": 0,
+      "PI3K": 0,
+      "miR200": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "JNK": 0,
+      "RAS": 0,
+      "miR200": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "PAK": 0,
+      "RPTP": 1,
+      "miR200": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "PI3K": 0,
+      "RPTP": 1,
+      "miR200": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "RAS": 0,
+      "RPTP": 1,
+      "miR200": 1
+    }
+  ]
+}

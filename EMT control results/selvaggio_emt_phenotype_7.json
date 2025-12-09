@@ -1,0 +1,75 @@
+{
+  "cs2": [],
+  "cs3": [
+    {
+      "ECad": 0,
+      "FAK_SRC_b1": 0,
+      "PAK": 0
+    },
+    {
+      "ECad": 0,
+      "FAK_SRC_b1": 0,
+      "PI3K": 0
+    },
+    {
+      "ECad": 0,
+      "FAK_SRC_b1": 0,
+      "RAS": 0
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "PAK": 0,
+      "SLUG": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "PAK": 0,
+      "SNAIL": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "PAK": 0,
+      "TGFB": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "PAK": 0,
+      "TGFBR": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "PAK": 0,
+      "ZEB": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "PI3K": 0,
+      "SLUG": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "PI3K": 0,
+      "SNAIL": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "PI3K": 0,
+      "ZEB": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "RAS": 0,
+      "SLUG": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "RAS": 0,
+      "SNAIL": 1
+    },
+    {
+      "FAK_SRC_b1": 0,
+      "RAS": 0,
+      "ZEB": 1
+    }
+  ]
+}
