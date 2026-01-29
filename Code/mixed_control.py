@@ -9,6 +9,7 @@ Created on Fri Nov 21 14:47:00 2025
 
 from pyboolnet.repository import get_primes
 from control_strategies_trap_spaces import run_control_problem, results_info
+from itertools import product
 
 if __name__ == "__main__":
    network = "selvaggio_emt"
@@ -28,7 +29,7 @@ if __name__ == "__main__":
                   ("IL6","JAK"),("DELTA","NOTCH"),("TGFB","TGFBR"),("FAT4_L","FAT4"),
                   ("EGF","EGFR"),("ECM","ITG_AB"),("HGF","HGFR"),("RPTP_L","RPTP"),("WNT","C4K1")]
    
-   
+   variables = list(primes)   
    for phenotype in targets:
 
        intervention_type = "combined"  # Options: "node", "edge", "combined"
@@ -36,9 +37,9 @@ if __name__ == "__main__":
        update = "asynchronous"
        target = targets[phenotype]
        print("TARGET", targets[phenotype])
-       avoid_nodes = ["AJ_b1","AJ_b2","FA_b1","FA_b2","FA_b3"]
-       avoid_edges = input_edges
-       limit = 2
+       avoid_nodes = list(target)
+       avoid_edges = [e for e in product(variables, variables) if (e[0] == e[1]) or (e[0] in avoid_nodes) or (e[1] in avoid_nodes)]
+       limit = 3
        use_attractors = True
        complex_attractors = []
        output_file = f"control_results/traps-spaces-{phenotype}-{intervention_type}-{control_type}"
