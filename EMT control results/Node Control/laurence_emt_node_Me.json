@@ -1,0 +1,777 @@
+{
+  "cs2": [
+    {
+      "BMP": 0,
+      "TGFB_R": 1
+    },
+    {
+      "OVOL1": 0,
+      "TGFB_R": 1
+    },
+    {
+      "BMP_R": 0,
+      "TGFB_R": 1
+    },
+    {
+      "SMAD5": 0,
+      "TGFB_R": 1
+    }
+  ],
+  "cs3": [
+    {
+      "BMP": 0,
+      "SMAD2_3": 1,
+      "TWIST": 1
+    },
+    {
+      "BMP": 0,
+      "TWIST": 1,
+      "ZEB1": 1
+    },
+    {
+      "BMP": 0,
+      "SMAD2_3": 1,
+      "aTGFB": 1
+    },
+    {
+      "SMAD5": 0,
+      "aTGFB": 1,
+      "miR182": 1
+    },
+    {
+      "SMAD2_3": 1,
+      "SMAD5": 0,
+      "aTGFB": 1
+    },
+    {
+      "ERK": 1,
+      "SMAD2_3": 1,
+      "SMAD5": 0
+    },
+    {
+      "BMP_R": 0,
+      "GF": 1,
+      "SNAI1": 1
+    },
+    {
+      "BMP_R": 0,
+      "RTK": 1,
+      "SNAI1": 1
+    },
+    {
+      "BMP_R": 0,
+      "SNAI1": 1,
+      "ZEB2": 1
+    },
+    {
+      "BMP_R": 0,
+      "GF": 1,
+      "SMAD2_3": 1
+    },
+    {
+      "BMP_R": 0,
+      "SMAD2_3": 1,
+      "TWIST": 1
+    },
+    {
+      "AP1": 1,
+      "BMP_R": 0,
+      "SNAI1": 1
+    },
+    {
+      "BMP_R": 0,
+      "aTGFB": 1,
+      "miR182": 1
+    },
+    {
+      "AP1": 1,
+      "SMAD5": 0,
+      "SNAI1": 1
+    },
+    {
+      "BMP_R": 0,
+      "ERK": 1,
+      "SNAI1": 1
+    },
+    {
+      "ERK": 1,
+      "SMAD5": 0,
+      "SNAI1": 1
+    },
+    {
+      "AP1": 1,
+      "BMP": 0,
+      "SNAI1": 1
+    },
+    {
+      "BMP": 0,
+      "ERK": 1,
+      "SNAI1": 1
+    },
+    {
+      "OVOL1": 0,
+      "aTGFB": 1,
+      "miR182": 1
+    },
+    {
+      "OVOL1": 0,
+      "TWIST": 1,
+      "miR182": 1
+    },
+    {
+      "BMP_R": 0,
+      "TWIST": 1,
+      "miR182": 1
+    },
+    {
+      "AP1": 1,
+      "OVOL1": 0,
+      "SMAD2_3": 1
+    },
+    {
+      "BCAT_TCF": 1,
+      "OVOL1": 0,
+      "SNAI1": 1
+    },
+    {
+      "AP1": 1,
+      "OVOL1": 0,
+      "SNAI1": 1
+    },
+    {
+      "GF": 1,
+      "OVOL1": 0,
+      "SMAD2_3": 1
+    },
+    {
+      "GF": 1,
+      "OVOL1": 0,
+      "SNAI1": 1
+    },
+    {
+      "OVOL1": 0,
+      "SMAD2_3": 1,
+      "TWIST": 1
+    },
+    {
+      "OVOL1": 0,
+      "SNAI1": 1,
+      "TWIST": 1
+    },
+    {
+      "AP1": 1,
+      "BMP": 0,
+      "SMAD2_3": 1
+    },
+    {
+      "BCAT_TCF": 1,
+      "BMP_R": 0,
+      "SNAI1": 1
+    },
+    {
+      "BMP_R": 0,
+      "SNAI1": 1,
+      "TWIST": 1
+    },
+    {
+      "BMP_R": 0,
+      "SMAD2_3": 1,
+      "aTGFB": 1
+    },
+    {
+      "BMP_R": 0,
+      "RTK": 1,
+      "SMAD2_3": 1
+    },
+    {
+      "BMP_R": 0,
+      "ERK": 1,
+      "SMAD2_3": 1
+    },
+    {
+      "AP1": 1,
+      "BMP_R": 0,
+      "SMAD2_3": 1
+    },
+    {
+      "BMP_R": 0,
+      "TWIST": 1,
+      "ZEB1": 1
+    },
+    {
+      "BMP_R": 0,
+      "GF": 1,
+      "ZEB1": 1
+    },
+    {
+      "BMP_R": 0,
+      "RTK": 1,
+      "ZEB1": 1
+    },
+    {
+      "BMP_R": 0,
+      "GSK3": 0,
+      "SMAD2_3": 1
+    },
+    {
+      "BMP_R": 0,
+      "GSK3": 0,
+      "SNAI1": 1
+    },
+    {
+      "BMP_R": 0,
+      "SNAI1": 1,
+      "VIM": 1
+    },
+    {
+      "SMAD5": 0,
+      "SNAI1": 1,
+      "ZEB2": 1
+    },
+    {
+      "BCAT_TCF": 1,
+      "SMAD5": 0,
+      "SNAI1": 1
+    },
+    {
+      "SMAD5": 0,
+      "SNAI1": 1,
+      "VIM": 1
+    },
+    {
+      "BMP": 0,
+      "SNAI1": 1,
+      "ZEB2": 1
+    },
+    {
+      "BCAT_TCF": 1,
+      "BMP": 0,
+      "SNAI1": 1
+    },
+    {
+      "BMP": 0,
+      "SNAI1": 1,
+      "VIM": 1
+    },
+    {
+      "BMP": 0,
+      "ERK": 1,
+      "SMAD2_3": 1
+    },
+    {
+      "BMP": 0,
+      "RTK": 1,
+      "SNAI1": 1
+    },
+    {
+      "BMP": 0,
+      "SNAI1": 1,
+      "TWIST": 1
+    },
+    {
+      "BMP": 0,
+      "RTK": 1,
+      "SMAD2_3": 1
+    },
+    {
+      "BMP": 0,
+      "GF": 1,
+      "SNAI1": 1
+    },
+    {
+      "BMP": 0,
+      "GF": 1,
+      "SMAD2_3": 1
+    },
+    {
+      "BMP": 0,
+      "PI3K_AKT": 1,
+      "SMAD2_3": 1
+    },
+    {
+      "BMP": 0,
+      "PI3K_AKT": 1,
+      "SNAI1": 1
+    },
+    {
+      "BMP": 0,
+      "GSK3": 0,
+      "SMAD2_3": 1
+    },
+    {
+      "BMP": 0,
+      "NFKB": 1,
+      "SNAI1": 1
+    },
+    {
+      "BMP": 0,
+      "GSK3": 0,
+      "SNAI1": 1
+    },
+    {
+      "BMP": 0,
+      "RTK": 1,
+      "ZEB1": 1
+    },
+    {
+      "BMP": 0,
+      "PI3K_AKT": 1,
+      "ZEB1": 1
+    },
+    {
+      "BMP": 0,
+      "SMAD7": 0,
+      "aTGFB": 1
+    },
+    {
+      "BMP": 0,
+      "SMAD7": 0,
+      "TWIST": 1
+    },
+    {
+      "BMP": 0,
+      "P63": 0,
+      "TWIST": 1
+    },
+    {
+      "BMP": 0,
+      "P63": 0,
+      "RTK": 1
+    },
+    {
+      "BMP": 0,
+      "P63": 0,
+      "PI3K_AKT": 1
+    },
+    {
+      "BMP": 0,
+      "GF": 1,
+      "ZEB1": 1
+    },
+    {
+      "BMP": 0,
+      "GF": 1,
+      "P63": 0
+    },
+    {
+      "GSK3": 0,
+      "OVOL1": 0,
+      "SNAI1": 1
+    },
+    {
+      "OVOL1": 0,
+      "SNAI1": 1,
+      "VIM": 1
+    },
+    {
+      "OVOL1": 0,
+      "SNAI1": 1,
+      "ZEB2": 1
+    },
+    {
+      "ERK": 1,
+      "OVOL1": 0,
+      "SNAI1": 1
+    },
+    {
+      "OVOL1": 0,
+      "RTK": 1,
+      "SNAI1": 1
+    },
+    {
+      "NFKB": 1,
+      "OVOL1": 0,
+      "SNAI1": 1
+    },
+    {
+      "OVOL1": 0,
+      "PI3K_AKT": 1,
+      "SNAI1": 1
+    },
+    {
+      "OVOL1": 0,
+      "PI3K_AKT": 1,
+      "ZEB1": 1
+    },
+    {
+      "OVOL1": 0,
+      "RTK": 1,
+      "ZEB1": 1
+    },
+    {
+      "OVOL1": 0,
+      "TWIST": 1,
+      "ZEB1": 1
+    },
+    {
+      "OVOL1": 0,
+      "SMAD2_3": 1,
+      "aTGFB": 1
+    },
+    {
+      "OVOL1": 0,
+      "RTK": 1,
+      "SMAD2_3": 1
+    },
+    {
+      "ERK": 1,
+      "OVOL1": 0,
+      "SMAD2_3": 1
+    },
+    {
+      "OVOL1": 0,
+      "PI3K_AKT": 1,
+      "SMAD2_3": 1
+    },
+    {
+      "GSK3": 0,
+      "OVOL1": 0,
+      "SMAD2_3": 1
+    },
+    {
+      "OVOL1": 0,
+      "SMAD7": 0,
+      "aTGFB": 1
+    },
+    {
+      "OVOL1": 0,
+      "SMAD7": 0,
+      "TWIST": 1
+    },
+    {
+      "OVOL1": 0,
+      "P63": 0,
+      "RTK": 1
+    },
+    {
+      "OVOL1": 0,
+      "P63": 0,
+      "TWIST": 1
+    },
+    {
+      "OVOL1": 0,
+      "P63": 0,
+      "PI3K_AKT": 1
+    },
+    {
+      "BMP": 0,
+      "GRHL2": 0,
+      "RTK": 1
+    },
+    {
+      "BMP": 0,
+      "GRHL2": 0,
+      "TWIST": 1
+    },
+    {
+      "BMP": 0,
+      "GF": 1,
+      "GRHL2": 0
+    },
+    {
+      "BMP": 0,
+      "SMAD2_3": 1,
+      "TGFB_L": 1
+    },
+    {
+      "BMP_R": 0,
+      "SMAD7": 0,
+      "aTGFB": 1
+    },
+    {
+      "BMP_R": 0,
+      "SMAD7": 0,
+      "TWIST": 1
+    },
+    {
+      "BMP_R": 0,
+      "TGFB_L": 1,
+      "miR182": 1
+    },
+    {
+      "BMP_R": 0,
+      "SMAD2_3": 1,
+      "TGFB_L": 1
+    },
+    {
+      "BMP_R": 0,
+      "SMAD7": 0,
+      "TGFB_L": 1
+    },
+    {
+      "BMP_R": 0,
+      "PI3K_AKT": 1,
+      "SNAI1": 1
+    },
+    {
+      "BMP_R": 0,
+      "PI3K_AKT": 1,
+      "SMAD2_3": 1
+    },
+    {
+      "BMP_R": 0,
+      "NFKB": 1,
+      "SNAI1": 1
+    },
+    {
+      "GF": 1,
+      "SMAD5": 0,
+      "SNAI1": 1
+    },
+    {
+      "AP1": 1,
+      "SMAD2_3": 1,
+      "SMAD5": 0
+    },
+    {
+      "GF": 1,
+      "SMAD2_3": 1,
+      "SMAD5": 0
+    },
+    {
+      "BMP_R": 0,
+      "PI3K_AKT": 1,
+      "ZEB1": 1
+    },
+    {
+      "BMP_R": 0,
+      "GRHL2": 0,
+      "TWIST": 1
+    },
+    {
+      "BMP_R": 0,
+      "GF": 1,
+      "GRHL2": 0
+    },
+    {
+      "BMP_R": 0,
+      "GRHL2": 0,
+      "RTK": 1
+    },
+    {
+      "BMP_R": 0,
+      "GRHL2": 0,
+      "PI3K_AKT": 1
+    },
+    {
+      "BMP_R": 0,
+      "GF": 1,
+      "P63": 0
+    },
+    {
+      "BMP_R": 0,
+      "P63": 0,
+      "RTK": 1
+    },
+    {
+      "BMP_R": 0,
+      "P63": 0,
+      "TWIST": 1
+    },
+    {
+      "BMP_R": 0,
+      "P63": 0,
+      "PI3K_AKT": 1
+    },
+    {
+      "GF": 1,
+      "OVOL1": 0,
+      "ZEB1": 1
+    },
+    {
+      "RTK": 1,
+      "SMAD5": 0,
+      "SNAI1": 1
+    },
+    {
+      "RTK": 1,
+      "SMAD2_3": 1,
+      "SMAD5": 0
+    },
+    {
+      "SMAD5": 0,
+      "TWIST": 1,
+      "miR182": 1
+    },
+    {
+      "SMAD5": 0,
+      "SNAI1": 1,
+      "TWIST": 1
+    },
+    {
+      "SMAD2_3": 1,
+      "SMAD5": 0,
+      "TWIST": 1
+    },
+    {
+      "SMAD5": 0,
+      "TWIST": 1,
+      "ZEB1": 1
+    },
+    {
+      "GF": 1,
+      "SMAD5": 0,
+      "ZEB1": 1
+    },
+    {
+      "RTK": 1,
+      "SMAD5": 0,
+      "ZEB1": 1
+    },
+    {
+      "GF": 1,
+      "OVOL1": 0,
+      "P63": 0
+    },
+    {
+      "BMP": 0,
+      "SMAD7": 0,
+      "TGFB_L": 1
+    },
+    {
+      "OVOL1": 0,
+      "TGFB_L": 1,
+      "miR182": 1
+    },
+    {
+      "OVOL1": 0,
+      "SMAD2_3": 1,
+      "TGFB_L": 1
+    },
+    {
+      "SMAD5": 0,
+      "SMAD7": 0,
+      "aTGFB": 1
+    },
+    {
+      "SMAD5": 0,
+      "SMAD7": 0,
+      "TWIST": 1
+    },
+    {
+      "PI3K_AKT": 1,
+      "SMAD2_3": 1,
+      "SMAD5": 0
+    },
+    {
+      "PI3K_AKT": 1,
+      "SMAD5": 0,
+      "SNAI1": 1
+    },
+    {
+      "NFKB": 1,
+      "SMAD5": 0,
+      "SNAI1": 1
+    },
+    {
+      "GSK3": 0,
+      "SMAD2_3": 1,
+      "SMAD5": 0
+    },
+    {
+      "GSK3": 0,
+      "SMAD5": 0,
+      "SNAI1": 1
+    },
+    {
+      "PI3K_AKT": 1,
+      "SMAD5": 0,
+      "ZEB1": 1
+    },
+    {
+      "OVOL1": 0,
+      "SMAD7": 0,
+      "TGFB_L": 1
+    },
+    {
+      "SMAD5": 0,
+      "TGFB_L": 1,
+      "miR182": 1
+    },
+    {
+      "SMAD2_3": 1,
+      "SMAD5": 0,
+      "TGFB_L": 1
+    },
+    {
+      "SMAD5": 0,
+      "SMAD7": 0,
+      "TGFB_L": 1
+    },
+    {
+      "GRHL2": 0,
+      "OVOL1": 0,
+      "TWIST": 1
+    },
+    {
+      "GF": 1,
+      "GRHL2": 0,
+      "OVOL1": 0
+    },
+    {
+      "GRHL2": 0,
+      "OVOL1": 0,
+      "RTK": 1
+    },
+    {
+      "P63": 0,
+      "SMAD5": 0,
+      "TWIST": 1
+    },
+    {
+      "GF": 1,
+      "P63": 0,
+      "SMAD5": 0
+    },
+    {
+      "P63": 0,
+      "RTK": 1,
+      "SMAD5": 0
+    },
+    {
+      "GF": 1,
+      "GRHL2": 0,
+      "SMAD5": 0
+    },
+    {
+      "GRHL2": 0,
+      "SMAD5": 0,
+      "TWIST": 1
+    },
+    {
+      "GRHL2": 0,
+      "RTK": 1,
+      "SMAD5": 0
+    },
+    {
+      "P63": 0,
+      "PI3K_AKT": 1,
+      "SMAD5": 0
+    },
+    {
+      "GRHL2": 0,
+      "OVOL1": 0,
+      "PI3K_AKT": 1
+    },
+    {
+      "GRHL2": 0,
+      "PI3K_AKT": 1,
+      "SMAD5": 0
+    },
+    {
+      "BMP": 0,
+      "P63": 0,
+      "TGFB_L": 1
+    },
+    {
+      "BMP": 0,
+      "GRHL2": 0,
+      "TGFB_L": 1
+    },
+    {
+      "BMP": 0,
+      "GRHL2": 0,
+      "PI3K_AKT": 1
+    }
+  ]
+}

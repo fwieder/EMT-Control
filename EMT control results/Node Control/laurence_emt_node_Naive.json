@@ -1,0 +1,1554 @@
+{
+  "cs3": [
+    {
+      "Ep": 0,
+      "P63": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 0,
+      "P63": 1,
+      "pEM": 0
+    },
+    {
+      "Ep": 0,
+      "GRHL2": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 0,
+      "GRHL2": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 1,
+      "Ep": 0,
+      "pEM": 0
+    },
+    {
+      "Ep": 0,
+      "GSK3": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 0,
+      "GSK3": 1,
+      "pEM": 0
+    },
+    {
+      "GSK3": 1,
+      "PRRX1": 1,
+      "pEM": 0
+    },
+    {
+      "GRHL2": 1,
+      "PRRX1": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 1,
+      "PRRX1": 1,
+      "pEM": 0
+    },
+    {
+      "P63": 1,
+      "PRRX1": 1,
+      "pEM": 0
+    },
+    {
+      "BCAT_TCF": 1,
+      "GSK3": 1,
+      "pEM": 0
+    },
+    {
+      "BCAT_TCF": 1,
+      "GRHL2": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 1,
+      "BCAT_TCF": 1,
+      "pEM": 0
+    },
+    {
+      "BCAT_TCF": 1,
+      "P63": 1,
+      "pEM": 0
+    },
+    {
+      "GF": 1,
+      "GSK3": 1,
+      "pEM": 0
+    },
+    {
+      "GF": 1,
+      "GRHL2": 1,
+      "pEM": 0
+    },
+    {
+      "GF": 1,
+      "P63": 1,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 1,
+      "Ep": 0,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 1,
+      "TWIST": 1,
+      "pEM": 0
+    },
+    {
+      "Ep": 0,
+      "Me": 0,
+      "pEM": 0
+    },
+    {
+      "Me": 0,
+      "TWIST": 1,
+      "pEM": 0
+    },
+    {
+      "Me": 0,
+      "ZEB2": 1,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 1,
+      "ZEB2": 1,
+      "pEM": 0
+    },
+    {
+      "ECAD": 0,
+      "miR200": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 0,
+      "miR200": 1,
+      "pEM": 0
+    },
+    {
+      "RTK": 1,
+      "miR200": 1,
+      "pEM": 0
+    },
+    {
+      "NCAD": 1,
+      "miR200": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 0,
+      "OVOL2": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL2": 1,
+      "RTK": 1,
+      "pEM": 0
+    },
+    {
+      "NCAD": 1,
+      "OVOL2": 1,
+      "pEM": 0
+    },
+    {
+      "ECAD": 0,
+      "OVOL2": 1,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 1,
+      "RTK": 1,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 1,
+      "NCAD": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 0,
+      "Claudin1": 1,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 1,
+      "ECAD": 0,
+      "pEM": 0
+    },
+    {
+      "NCAD": 1,
+      "OVOL1": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL1": 1,
+      "RTK": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL2": 1,
+      "PRRX1": 1,
+      "pEM": 0
+    },
+    {
+      "PRRX1": 1,
+      "miR200": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL1": 1,
+      "PRRX1": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 0,
+      "OVOL1": 1,
+      "pEM": 0
+    },
+    {
+      "GF": 1,
+      "OVOL2": 1,
+      "pEM": 0
+    },
+    {
+      "GF": 1,
+      "miR200": 1,
+      "pEM": 0
+    },
+    {
+      "GF": 1,
+      "OVOL1": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL2": 1,
+      "SRC": 1,
+      "pEM": 0
+    },
+    {
+      "SRC": 1,
+      "miR200": 1,
+      "pEM": 0
+    },
+    {
+      "ECAD": 0,
+      "OVOL1": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL1": 1,
+      "SRC": 1,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 1,
+      "PRRX1": 1,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 1,
+      "GF": 1,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 1,
+      "SRC": 1,
+      "pEM": 0
+    },
+    {
+      "NCAD": 1,
+      "miR205": 1,
+      "pEM": 0
+    },
+    {
+      "PRRX1": 1,
+      "miR205": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 0,
+      "miR205": 1,
+      "pEM": 0
+    },
+    {
+      "RTK": 1,
+      "miR205": 1,
+      "pEM": 0
+    },
+    {
+      "GF": 1,
+      "miR205": 1,
+      "pEM": 0
+    },
+    {
+      "ECAD": 0,
+      "miR205": 1,
+      "pEM": 0
+    },
+    {
+      "SRC": 1,
+      "miR205": 1,
+      "pEM": 0
+    },
+    {
+      "SNAI2": 1,
+      "miR205": 1,
+      "pEM": 0
+    },
+    {
+      "SNAI2": 1,
+      "miR200": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL2": 1,
+      "SNAI2": 1,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 1,
+      "SNAI2": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL1": 1,
+      "SNAI2": 1,
+      "pEM": 0
+    },
+    {
+      "BMP": 1,
+      "NCAD": 1,
+      "pEM": 0
+    },
+    {
+      "BMP": 1,
+      "PRRX1": 1,
+      "pEM": 0
+    },
+    {
+      "BMP": 1,
+      "SNAI2": 1,
+      "pEM": 0
+    },
+    {
+      "BMP": 1,
+      "SRC": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 0,
+      "BMP": 1,
+      "pEM": 0
+    },
+    {
+      "BMP": 1,
+      "RTK": 1,
+      "pEM": 0
+    },
+    {
+      "BMP": 1,
+      "ECAD": 0,
+      "pEM": 0
+    },
+    {
+      "BMP": 1,
+      "GF": 1,
+      "pEM": 0
+    },
+    {
+      "NCAD": 1,
+      "mBMP": 1,
+      "pEM": 0
+    },
+    {
+      "PRRX1": 1,
+      "mBMP": 1,
+      "pEM": 0
+    },
+    {
+      "SNAI2": 1,
+      "mBMP": 1,
+      "pEM": 0
+    },
+    {
+      "SRC": 1,
+      "mBMP": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 0,
+      "mBMP": 1,
+      "pEM": 0
+    },
+    {
+      "RTK": 1,
+      "mBMP": 1,
+      "pEM": 0
+    },
+    {
+      "ECAD": 0,
+      "mBMP": 1,
+      "pEM": 0
+    },
+    {
+      "GF": 1,
+      "mBMP": 1,
+      "pEM": 0
+    },
+    {
+      "NCAD": 1,
+      "aBMP": 1,
+      "pEM": 0
+    },
+    {
+      "PRRX1": 1,
+      "aBMP": 1,
+      "pEM": 0
+    },
+    {
+      "SNAI2": 1,
+      "aBMP": 1,
+      "pEM": 0
+    },
+    {
+      "SRC": 1,
+      "aBMP": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 0,
+      "aBMP": 1,
+      "pEM": 0
+    },
+    {
+      "RTK": 1,
+      "aBMP": 1,
+      "pEM": 0
+    },
+    {
+      "ECAD": 0,
+      "aBMP": 1,
+      "pEM": 0
+    },
+    {
+      "GF": 1,
+      "aBMP": 1,
+      "pEM": 0
+    },
+    {
+      "Ep": 0,
+      "OVOL2": 1,
+      "pEM": 0
+    },
+    {
+      "Ep": 0,
+      "miR200": 1,
+      "pEM": 0
+    },
+    {
+      "BMP": 1,
+      "Ep": 0,
+      "pEM": 0
+    },
+    {
+      "Ep": 0,
+      "OVOL1": 1,
+      "pEM": 0
+    },
+    {
+      "Ep": 0,
+      "miR205": 1,
+      "pEM": 0
+    },
+    {
+      "TWIST": 1,
+      "miR200": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL2": 1,
+      "TWIST": 1,
+      "pEM": 0
+    },
+    {
+      "BMP": 1,
+      "TWIST": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL1": 1,
+      "TWIST": 1,
+      "pEM": 0
+    },
+    {
+      "TWIST": 1,
+      "miR205": 1,
+      "pEM": 0
+    },
+    {
+      "Ep": 0,
+      "mBMP": 1,
+      "pEM": 0
+    },
+    {
+      "TWIST": 1,
+      "mBMP": 1,
+      "pEM": 0
+    },
+    {
+      "Ep": 0,
+      "aBMP": 1,
+      "pEM": 0
+    },
+    {
+      "TWIST": 1,
+      "aBMP": 1,
+      "pEM": 0
+    },
+    {
+      "BMP": 1,
+      "ZEB2": 1,
+      "pEM": 0
+    },
+    {
+      "ZEB2": 1,
+      "miR200": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL1": 1,
+      "ZEB2": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL2": 1,
+      "ZEB2": 1,
+      "pEM": 0
+    },
+    {
+      "BMP": 1,
+      "VIM": 1,
+      "pEM": 0
+    },
+    {
+      "VIM": 1,
+      "miR200": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL2": 1,
+      "VIM": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL1": 1,
+      "VIM": 1,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 1,
+      "VIM": 1,
+      "pEM": 0
+    },
+    {
+      "ZEB2": 1,
+      "aBMP": 1,
+      "pEM": 0
+    },
+    {
+      "VIM": 1,
+      "aBMP": 1,
+      "pEM": 0
+    },
+    {
+      "ZEB2": 1,
+      "mBMP": 1,
+      "pEM": 0
+    },
+    {
+      "VIM": 1,
+      "mBMP": 1,
+      "pEM": 0
+    },
+    {
+      "ZEB2": 1,
+      "miR205": 1,
+      "pEM": 0
+    },
+    {
+      "VIM": 1,
+      "miR205": 1,
+      "pEM": 0
+    },
+    {
+      "BMP_R": 1,
+      "NCAD": 1,
+      "pEM": 0
+    },
+    {
+      "BMP_R": 1,
+      "SNAI2": 1,
+      "pEM": 0
+    },
+    {
+      "BMP_R": 1,
+      "PRRX1": 1,
+      "pEM": 0
+    },
+    {
+      "BMP_R": 1,
+      "ZEB2": 1,
+      "pEM": 0
+    },
+    {
+      "BMP_R": 1,
+      "VIM": 1,
+      "pEM": 0
+    },
+    {
+      "BMP_R": 1,
+      "Ep": 0,
+      "pEM": 0
+    },
+    {
+      "BMP_R": 1,
+      "SRC": 1,
+      "pEM": 0
+    },
+    {
+      "BMP_R": 1,
+      "TWIST": 1,
+      "pEM": 0
+    },
+    {
+      "BMP_R": 1,
+      "GF": 1,
+      "pEM": 0
+    },
+    {
+      "BMP_R": 1,
+      "ECAD": 0,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 0,
+      "BMP_R": 1,
+      "pEM": 0
+    },
+    {
+      "BMP_R": 1,
+      "RTK": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL2": 1,
+      "TightJunc": 0,
+      "pEM": 0
+    },
+    {
+      "OVOL1": 1,
+      "TightJunc": 0,
+      "pEM": 0
+    },
+    {
+      "BMP": 1,
+      "TightJunc": 0,
+      "pEM": 0
+    },
+    {
+      "BMP": 1,
+      "SNAI1": 1,
+      "pEM": 0
+    },
+    {
+      "BCAT_TCF": 1,
+      "BMP": 1,
+      "pEM": 0
+    },
+    {
+      "BMP": 1,
+      "ZEB1": 1,
+      "pEM": 0
+    },
+    {
+      "BCAT_TCF": 1,
+      "mBMP": 1,
+      "pEM": 0
+    },
+    {
+      "BCAT_TCF": 1,
+      "Claudin1": 1,
+      "pEM": 0
+    },
+    {
+      "BCAT_TCF": 1,
+      "miR205": 1,
+      "pEM": 0
+    },
+    {
+      "BCAT_TCF": 1,
+      "BMP_R": 1,
+      "pEM": 0
+    },
+    {
+      "BCAT_TCF": 1,
+      "aBMP": 1,
+      "pEM": 0
+    },
+    {
+      "BCAT_TCF": 1,
+      "OVOL1": 1,
+      "pEM": 0
+    },
+    {
+      "SNAI1": 1,
+      "miR205": 1,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 1,
+      "SNAI1": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL1": 1,
+      "SNAI1": 1,
+      "pEM": 0
+    },
+    {
+      "SNAI1": 1,
+      "aBMP": 1,
+      "pEM": 0
+    },
+    {
+      "SNAI1": 1,
+      "mBMP": 1,
+      "pEM": 0
+    },
+    {
+      "BMP_R": 1,
+      "SNAI1": 1,
+      "pEM": 0
+    },
+    {
+      "BCAT_TCF": 1,
+      "OVOL2": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL2": 1,
+      "SNAI1": 1,
+      "pEM": 0
+    },
+    {
+      "TightJunc": 0,
+      "miR205": 1,
+      "pEM": 0
+    },
+    {
+      "TightJunc": 0,
+      "aBMP": 1,
+      "pEM": 0
+    },
+    {
+      "TightJunc": 0,
+      "mBMP": 1,
+      "pEM": 0
+    },
+    {
+      "BMP_R": 1,
+      "TightJunc": 0,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 1,
+      "ZEB1": 1,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 1,
+      "TGFB_R": 1,
+      "pEM": 0
+    },
+    {
+      "ZEB1": 1,
+      "miR205": 1,
+      "pEM": 0
+    },
+    {
+      "TGFB_R": 1,
+      "miR205": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL2": 1,
+      "ZEB1": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL2": 1,
+      "TGFB_R": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL1": 1,
+      "ZEB1": 1,
+      "pEM": 0
+    },
+    {
+      "ZEB1": 1,
+      "aBMP": 1,
+      "pEM": 0
+    },
+    {
+      "BMP": 1,
+      "TGFB_R": 1,
+      "pEM": 0
+    },
+    {
+      "OVOL1": 1,
+      "TGFB_R": 1,
+      "pEM": 0
+    },
+    {
+      "TGFB_R": 1,
+      "aBMP": 1,
+      "pEM": 0
+    },
+    {
+      "ZEB1": 1,
+      "mBMP": 1,
+      "pEM": 0
+    },
+    {
+      "TGFB_R": 1,
+      "mBMP": 1,
+      "pEM": 0
+    },
+    {
+      "BMP_R": 1,
+      "TGFB_R": 1,
+      "pEM": 0
+    },
+    {
+      "BMP_R": 1,
+      "ZEB1": 1,
+      "pEM": 0
+    },
+    {
+      "Me": 0,
+      "TightJunc": 0,
+      "pEM": 0
+    },
+    {
+      "Me": 0,
+      "SNAI2": 1,
+      "pEM": 0
+    },
+    {
+      "Me": 0,
+      "PRRX1": 1,
+      "pEM": 0
+    },
+    {
+      "BCAT_TCF": 1,
+      "Me": 0,
+      "pEM": 0
+    },
+    {
+      "Me": 0,
+      "SNAI1": 1,
+      "pEM": 0
+    },
+    {
+      "Me": 0,
+      "TGFB_R": 1,
+      "pEM": 0
+    },
+    {
+      "Me": 0,
+      "ZEB1": 1,
+      "pEM": 0
+    },
+    {
+      "Me": 0,
+      "NCAD": 1,
+      "pEM": 0
+    },
+    {
+      "Me": 0,
+      "RTK": 1,
+      "pEM": 0
+    },
+    {
+      "GF": 1,
+      "Me": 0,
+      "pEM": 0
+    },
+    {
+      "Me": 0,
+      "SRC": 1,
+      "pEM": 0
+    },
+    {
+      "ECAD": 0,
+      "Me": 0,
+      "pEM": 0
+    },
+    {
+      "BCAT_TCF": 1,
+      "miR200": 1,
+      "pEM": 0
+    },
+    {
+      "TightJunc": 0,
+      "miR200": 1,
+      "pEM": 0
+    },
+    {
+      "ZEB1": 1,
+      "miR200": 1,
+      "pEM": 0
+    },
+    {
+      "SNAI1": 1,
+      "miR200": 1,
+      "pEM": 0
+    },
+    {
+      "TGFB_R": 1,
+      "miR200": 1,
+      "pEM": 0
+    },
+    {
+      "NCAD": 1,
+      "TightJunc": 1,
+      "pEM": 0
+    },
+    {
+      "ECAD": 0,
+      "TightJunc": 1,
+      "pEM": 0
+    },
+    {
+      "TightJunc": 1,
+      "ZEB1": 1,
+      "pEM": 0
+    },
+    {
+      "TightJunc": 1,
+      "ZEB2": 1,
+      "pEM": 0
+    },
+    {
+      "SMAD5": 1,
+      "ZEB2": 1,
+      "pEM": 0
+    },
+    {
+      "ECAD": 0,
+      "SMAD5": 1,
+      "pEM": 0
+    },
+    {
+      "NCAD": 1,
+      "SMAD5": 1,
+      "pEM": 0
+    },
+    {
+      "SMAD5": 1,
+      "ZEB1": 1,
+      "pEM": 0
+    },
+    {
+      "TGFB_R": 1,
+      "TightJunc": 1,
+      "pEM": 0
+    },
+    {
+      "SMAD5": 1,
+      "TGFB_R": 1,
+      "pEM": 0
+    },
+    {
+      "PRRX1": 1,
+      "TightJunc": 1,
+      "pEM": 0
+    },
+    {
+      "PRRX1": 1,
+      "SMAD5": 1,
+      "pEM": 0
+    },
+    {
+      "SNAI1": 1,
+      "TightJunc": 1,
+      "pEM": 0
+    },
+    {
+      "SMAD5": 1,
+      "SNAI1": 1,
+      "pEM": 0
+    },
+    {
+      "BCAT_TCF": 1,
+      "TightJunc": 1,
+      "pEM": 0
+    },
+    {
+      "BCAT_TCF": 1,
+      "SMAD5": 1,
+      "pEM": 0
+    },
+    {
+      "SNAI2": 1,
+      "TightJunc": 1,
+      "pEM": 0
+    },
+    {
+      "SMAD5": 1,
+      "SNAI2": 1,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 0,
+      "miR205": 1,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 0,
+      "OVOL1": 1,
+      "pEM": 0
+    },
+    {
+      "BMP": 1,
+      "Claudin1": 0,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 0,
+      "Me": 0,
+      "pEM": 0
+    },
+    {
+      "BMP_R": 1,
+      "Claudin1": 0,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 0,
+      "mBMP": 1,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 0,
+      "aBMP": 1,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 0,
+      "SMAD5": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 1,
+      "SNAI2": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 1,
+      "SNAI1": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 1,
+      "ZEB1": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 1,
+      "ZEB2": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 1,
+      "NCAD": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 1,
+      "TGFB_R": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 1,
+      "Claudin1": 0,
+      "pEM": 0
+    },
+    {
+      "Ep": 0,
+      "TightJunc": 1,
+      "pEM": 0
+    },
+    {
+      "Ep": 0,
+      "SMAD5": 1,
+      "pEM": 0
+    },
+    {
+      "PRRX1": 1,
+      "SNAI2": 0,
+      "pEM": 0
+    },
+    {
+      "NCAD": 1,
+      "P63": 1,
+      "pEM": 0
+    },
+    {
+      "P63": 1,
+      "ZEB1": 1,
+      "pEM": 0
+    },
+    {
+      "P63": 1,
+      "SNAI1": 1,
+      "pEM": 0
+    },
+    {
+      "P63": 1,
+      "ZEB2": 1,
+      "pEM": 0
+    },
+    {
+      "P63": 1,
+      "TGFB_R": 1,
+      "pEM": 0
+    },
+    {
+      "P63": 1,
+      "SNAI2": 1,
+      "pEM": 0
+    },
+    {
+      "GRHL2": 1,
+      "SNAI2": 1,
+      "pEM": 0
+    },
+    {
+      "GRHL2": 1,
+      "TGFB_R": 1,
+      "pEM": 0
+    },
+    {
+      "GRHL2": 1,
+      "SNAI1": 1,
+      "pEM": 0
+    },
+    {
+      "GRHL2": 1,
+      "ZEB2": 1,
+      "pEM": 0
+    },
+    {
+      "GRHL2": 1,
+      "ZEB1": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 1,
+      "TWIST": 1,
+      "pEM": 0
+    },
+    {
+      "P63": 1,
+      "TWIST": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 0,
+      "Me": 0,
+      "pEM": 0
+    },
+    {
+      "Ep": 0,
+      "VIM": 0,
+      "pEM": 0
+    },
+    {
+      "VIM": 0,
+      "ZEB2": 1,
+      "pEM": 0
+    },
+    {
+      "NCAD": 1,
+      "VIM": 0,
+      "pEM": 0
+    },
+    {
+      "SRC": 1,
+      "VIM": 0,
+      "pEM": 0
+    },
+    {
+      "RTK": 1,
+      "VIM": 0,
+      "pEM": 0
+    },
+    {
+      "ECAD": 0,
+      "VIM": 0,
+      "pEM": 0
+    },
+    {
+      "SNAI1": 1,
+      "VIM": 0,
+      "pEM": 0
+    },
+    {
+      "PRRX1": 1,
+      "VIM": 0,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 0,
+      "VIM": 0,
+      "pEM": 0
+    },
+    {
+      "SNAI2": 1,
+      "VIM": 0,
+      "pEM": 0
+    },
+    {
+      "GF": 1,
+      "VIM": 0,
+      "pEM": 0
+    },
+    {
+      "BCAT_TCF": 1,
+      "VIM": 0,
+      "pEM": 0
+    },
+    {
+      "Me": 0,
+      "VIM": 1,
+      "pEM": 0
+    },
+    {
+      "TightJunc": 0,
+      "VIM": 0,
+      "pEM": 0
+    },
+    {
+      "VIM": 0,
+      "ZEB1": 1,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 0,
+      "miR200": 1,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 0,
+      "VIM": 0,
+      "pEM": 0
+    },
+    {
+      "TWIST": 1,
+      "VIM": 0,
+      "pEM": 0
+    },
+    {
+      "GF": 1,
+      "TightJunc": 1,
+      "pEM": 0
+    },
+    {
+      "RTK": 1,
+      "TightJunc": 1,
+      "pEM": 0
+    },
+    {
+      "TightJunc": 1,
+      "VIM": 1,
+      "pEM": 0
+    },
+    {
+      "TWIST": 1,
+      "TightJunc": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 0,
+      "TightJunc": 1,
+      "pEM": 0
+    },
+    {
+      "SRC": 1,
+      "TightJunc": 1,
+      "pEM": 0
+    },
+    {
+      "TGFB_R": 1,
+      "VIM": 0,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 1,
+      "VIM": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 1,
+      "TightJunc": 0,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 0,
+      "OVOL2": 1,
+      "pEM": 0
+    },
+    {
+      "GRHL2": 1,
+      "VIM": 1,
+      "pEM": 0
+    },
+    {
+      "GRHL2": 1,
+      "NCAD": 1,
+      "pEM": 0
+    },
+    {
+      "GRHL2": 1,
+      "TWIST": 1,
+      "pEM": 0
+    },
+    {
+      "GRHL2": 1,
+      "RTK": 1,
+      "pEM": 0
+    },
+    {
+      "ECAD": 0,
+      "GRHL2": 1,
+      "pEM": 0
+    },
+    {
+      "GRHL2": 1,
+      "SRC": 1,
+      "pEM": 0
+    },
+    {
+      "GRHL2": 1,
+      "TightJunc": 0,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 0,
+      "GRHL2": 1,
+      "pEM": 0
+    },
+    {
+      "P63": 1,
+      "VIM": 1,
+      "pEM": 0
+    },
+    {
+      "ECAD": 0,
+      "P63": 1,
+      "pEM": 0
+    },
+    {
+      "P63": 1,
+      "RTK": 1,
+      "pEM": 0
+    },
+    {
+      "P63": 1,
+      "TightJunc": 0,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 0,
+      "P63": 1,
+      "pEM": 0
+    },
+    {
+      "P63": 1,
+      "SRC": 1,
+      "pEM": 0
+    },
+    {
+      "GSK3": 1,
+      "NCAD": 1,
+      "pEM": 0
+    },
+    {
+      "GF": 1,
+      "SMAD5": 1,
+      "pEM": 0
+    },
+    {
+      "RTK": 1,
+      "SMAD5": 1,
+      "pEM": 0
+    },
+    {
+      "SMAD5": 1,
+      "SRC": 1,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 0,
+      "SMAD5": 1,
+      "pEM": 0
+    },
+    {
+      "SMAD5": 1,
+      "TWIST": 1,
+      "pEM": 0
+    },
+    {
+      "SMAD5": 1,
+      "VIM": 1,
+      "pEM": 0
+    },
+    {
+      "SMAD5": 1,
+      "TightJunc": 0,
+      "pEM": 0
+    },
+    {
+      "GSK3": 1,
+      "ZEB2": 1,
+      "pEM": 0
+    },
+    {
+      "GSK3": 1,
+      "VIM": 1,
+      "pEM": 0
+    },
+    {
+      "GSK3": 1,
+      "TWIST": 1,
+      "pEM": 0
+    },
+    {
+      "ECAD": 0,
+      "GSK3": 1,
+      "pEM": 0
+    },
+    {
+      "GSK3": 1,
+      "SRC": 1,
+      "pEM": 0
+    },
+    {
+      "GSK3": 1,
+      "RTK": 1,
+      "pEM": 0
+    },
+    {
+      "Ep": 0,
+      "NCAD": 0,
+      "pEM": 0
+    },
+    {
+      "BCAT_TCF": 1,
+      "NCAD": 0,
+      "pEM": 0
+    },
+    {
+      "NCAD": 0,
+      "ZEB2": 1,
+      "pEM": 0
+    },
+    {
+      "NCAD": 0,
+      "SNAI2": 1,
+      "pEM": 0
+    },
+    {
+      "NCAD": 0,
+      "VIM": 1,
+      "pEM": 0
+    },
+    {
+      "NCAD": 0,
+      "TWIST": 1,
+      "pEM": 0
+    },
+    {
+      "GF": 1,
+      "NCAD": 0,
+      "pEM": 0
+    },
+    {
+      "AdhJunc": 0,
+      "NCAD": 0,
+      "pEM": 0
+    },
+    {
+      "ECAD": 0,
+      "NCAD": 0,
+      "pEM": 0
+    },
+    {
+      "NCAD": 0,
+      "SRC": 1,
+      "pEM": 0
+    },
+    {
+      "NCAD": 0,
+      "RTK": 1,
+      "pEM": 0
+    },
+    {
+      "NCAD": 0,
+      "PRRX1": 1,
+      "pEM": 0
+    },
+    {
+      "NCAD": 0,
+      "TightJunc": 0,
+      "pEM": 0
+    },
+    {
+      "Claudin1": 0,
+      "NCAD": 0,
+      "pEM": 0
+    },
+    {
+      "NCAD": 0,
+      "SNAI1": 1,
+      "pEM": 0
+    },
+    {
+      "GSK3": 1,
+      "TGFB_R": 1,
+      "pEM": 0
+    },
+    {
+      "NCAD": 0,
+      "TGFB_R": 1,
+      "pEM": 0
+    },
+    {
+      "GSK3": 1,
+      "ZEB1": 1,
+      "pEM": 0
+    },
+    {
+      "NCAD": 0,
+      "ZEB1": 1,
+      "pEM": 0
+    }
+  ]
+}
