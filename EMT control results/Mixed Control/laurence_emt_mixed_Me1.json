@@ -1,0 +1,113 @@
+{
+  "cs3": {
+    "n2_e1": [
+      {
+        "BMP|BMP_R": 0,
+        "SRC": 0,
+        "TGFB_R": 1
+      },
+      {
+        "BMP_R|SMAD5": 0,
+        "SRC": 0,
+        "TGFB_R": 1
+      },
+      {
+        "SMAD5|OVOL1": 0,
+        "SRC": 0,
+        "TGFB_R": 1
+      },
+      {
+        "ERK": 0,
+        "SMAD5|OVOL1": 0,
+        "TGFB_R": 1
+      },
+      {
+        "BMP|BMP_R": 0,
+        "ERK": 0,
+        "TGFB_R": 1
+      },
+      {
+        "BMP_R|SMAD5": 0,
+        "ERK": 0,
+        "TGFB_R": 1
+      },
+      {
+        "BMP_R|SMAD5": 0,
+        "TGFB_R": 1,
+        "miR15": 1
+      },
+      {
+        "BMP|BMP_R": 0,
+        "TGFB_R": 1,
+        "miR15": 1
+      },
+      {
+        "SMAD5|OVOL1": 0,
+        "TGFB_R": 1,
+        "miR15": 1
+      }
+    ],
+    "n3_e0": [
+      {
+        "BMP_R": 0,
+        "SRC": 0,
+        "TGFB_R": 1
+      },
+      {
+        "OVOL1": 0,
+        "SRC": 0,
+        "TGFB_R": 1
+      },
+      {
+        "SMAD5": 0,
+        "SRC": 0,
+        "TGFB_R": 1
+      },
+      {
+        "BMP_R": 0,
+        "ERK": 0,
+        "TGFB_R": 1
+      },
+      {
+        "BMP": 0,
+        "SRC": 0,
+        "TGFB_R": 1
+      },
+      {
+        "BMP": 0,
+        "ERK": 0,
+        "TGFB_R": 1
+      },
+      {
+        "BMP": 0,
+        "TGFB_R": 1,
+        "miR15": 1
+      },
+      {
+        "ERK": 0,
+        "OVOL1": 0,
+        "TGFB_R": 1
+      },
+      {
+        "ERK": 0,
+        "SMAD5": 0,
+        "TGFB_R": 1
+      },
+      {
+        "BMP_R": 0,
+        "TGFB_R": 1,
+        "miR15": 1
+      },
+      {
+        "OVOL1": 0,
+        "TGFB_R": 1,
+        "miR15": 1
+      },
+      {
+        "SMAD5": 0,
+        "TGFB_R": 1,
+        "miR15": 1
+      }
+    ]
+  }
+}

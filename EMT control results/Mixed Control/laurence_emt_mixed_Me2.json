@@ -1,0 +1,43 @@
+{
+  "cs3": {
+    "n2_e1": [
+      {
+        "SMAD5|OVOL1": 0,
+        "TGFB_R": 1,
+        "miR15": 0
+      },
+      {
+        "BMP|BMP_R": 0,
+        "TGFB_R": 1,
+        "miR15": 0
+      },
+      {
+        "BMP_R|SMAD5": 0,
+        "TGFB_R": 1,
+        "miR15": 0
+      }
+    ],
+    "n3_e0": [
+      {
+        "SMAD5": 0,
+        "TGFB_R": 1,
+        "miR15": 0
+      },
+      {
+        "OVOL1": 0,
+        "TGFB_R": 1,
+        "miR15": 0
+      },
+      {
+        "BMP_R": 0,
+        "TGFB_R": 1,
+        "miR15": 0
+      },
+      {
+        "BMP": 0,
+        "TGFB_R": 1,
+        "miR15": 0
+      }
+    ]
+  }
+}

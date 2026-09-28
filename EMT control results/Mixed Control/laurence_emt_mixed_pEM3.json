@@ -1,0 +1,3429 @@
+{
+  "cs2": {
+    "n1_e1": [
+      {
+        "AdhJunc|Me": 1,
+        "TGFB_R": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "TGFB_R": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "TGFB_R": 1
+      },
+      {
+        "TGFB_R": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "TGFB_R": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "SMAD5|OVOL1": 1,
+        "TGFB_R": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "TGFB_R": 1
+      }
+    ],
+    "n2_e0": [
+      {
+        "OVOL1": 1,
+        "TGFB_R": 1
+      },
+      {
+        "BMP": 1,
+        "TGFB_R": 1
+      },
+      {
+        "Me": 0,
+        "TGFB_R": 1
+      },
+      {
+        "TGFB_R": 1,
+        "mBMP": 1
+      },
+      {
+        "TGFB_R": 1,
+        "aBMP": 1
+      },
+      {
+        "SMAD5": 1,
+        "TGFB_R": 1
+      },
+      {
+        "BMP_R": 1,
+        "TGFB_R": 1
+      }
+    ]
+  },
+  "cs3": {
+    "n0_e3": [
+      {
+        "GF|RTK": 1,
+        "SMAD2_3|SNAI1": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "GF|RTK": 1,
+        "OVOL1|Me": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "GF|RTK": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "GF|RTK": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "TGFB_R|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST|RTK": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "SMAD2_3|SNAI1": 1,
+        "TWIST|RTK": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "GF|RTK": 1,
+        "SMAD2_3|SNAI1": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "GF|RTK": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SMAD2_3|SNAI1": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "GF|RTK": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "SMAD2_3|SNAI1": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "SMAD2_3|SNAI1": 1,
+        "TWIST|RTK": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST|RTK": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "RTK|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "RTK|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SMAD5|OVOL1": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "SMAD5|OVOL1": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "GF|RTK": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "TGFB_R|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "RTK|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "RTK|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "SMAD5|OVOL1": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "SMAD5|OVOL1": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L|TGFB_R": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L|TGFB_R": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "SMAD7|TGFB_R": 0,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "SMAD7|TGFB_R": 0,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L|TGFB_R": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "SMAD7|TGFB_R": 0,
+        "aTGFB|TGFB_R": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L|TGFB_R": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "SMAD7|TGFB_R": 0,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "SMAD7|TGFB_R": 0,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L|TGFB_R": 1
+      },
+      {
+        "SMAD5|OVOL1": 1,
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L|TGFB_R": 1
+      },
+      {
+        "SMAD5|OVOL1": 1,
+        "SMAD7|TGFB_R": 0,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "SMAD7|TGFB_R": 0,
+        "aBMP|BMP_R": 1,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L|TGFB_R": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SMAD2_3|SNAI1": 1,
+        "SMAD5|OVOL1": 1
+      },
+      {
+        "SMAD2_3|SNAI1": 1,
+        "SMAD5|OVOL1": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "GF|RTK": 1,
+        "SMAD2_3|SNAI1": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "SMAD2_3|SNAI1": 1,
+        "TWIST|RTK": 1
+      }
+    ],
+    "n1_e2": [
+      {
+        "SMAD7|TGFB_R": 0,
+        "aTGFB": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "RTK|PI3K_AKT": 1,
+        "SNAI1": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "SNAI1": 1,
+        "TGFB_R|PI3K_AKT": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "RTK|PI3K_AKT": 1,
+        "SNAI1": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "SNAI1": 1,
+        "TGFB_R|PI3K_AKT": 1
+      },
+      {
+        "GF|RTK": 1,
+        "OVOL1": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SMAD5": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SNAI1": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "GF|RTK": 1,
+        "OVOL1|Me": 1,
+        "SNAI1": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "GF|RTK": 1,
+        "SNAI1": 1
+      },
+      {
+        "ERK": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "ERK": 1,
+        "OVOL1|Me": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "ERK": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "GF": 1,
+        "SMAD2_3|SNAI1": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SMAD2_3|SNAI1": 1,
+        "mBMP": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SMAD2_3|SNAI1": 1,
+        "aBMP": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SMAD2_3|SNAI1": 1,
+        "SMAD5": 1
+      },
+      {
+        "GF|RTK": 1,
+        "OVOL1": 1,
+        "SMAD2_3|SNAI1": 1
+      },
+      {
+        "GF|RTK": 1,
+        "OVOL1|Me": 1,
+        "ZEB1": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "GF|RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "GF|RTK": 1,
+        "ZEB1": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "GF": 1,
+        "OVOL1|Me": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "GF": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "GF": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "GF|RTK": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "GF|RTK": 1,
+        "OVOL1|Me": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SMAD2_3": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "GF|RTK": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "aBMP": 1
+      },
+      {
+        "GF|RTK": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "mBMP": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "RTK": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "RTK": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "RTK": 1,
+        "SMAD2_3|SNAI1": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "RTK": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "SNAI1": 1,
+        "TGFB_R|PI3K_AKT": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "SNAI1": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "TGFB_R|PI3K_AKT": 1,
+        "ZEB1": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "SMAD2_3": 1,
+        "TGFB_R|PI3K_AKT": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "SMAD2_3": 1,
+        "TGFB_R|PI3K_AKT": 1
+      },
+      {
+        "SMAD2_3": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "TGFB_R|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "mBMP": 1
+      },
+      {
+        "TGFB_R|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "aBMP": 1
+      },
+      {
+        "OVOL1": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "SMAD5": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "SNAI1": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "SNAI1": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "SMAD2_3": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "SMAD2_3": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "SNAI1": 1,
+        "TWIST|RTK": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "SMAD2_3": 1,
+        "TWIST|RTK": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST|RTK": 1,
+        "aBMP": 1
+      },
+      {
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST|RTK": 1,
+        "mBMP": 1
+      },
+      {
+        "SMAD5": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "OVOL1": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "TWIST|RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "TWIST|RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "TWIST|RTK": 1,
+        "ZEB1": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "SMAD2_3|SNAI1": 1,
+        "TWIST|RTK": 1,
+        "mBMP": 1
+      },
+      {
+        "SMAD2_3|SNAI1": 1,
+        "TWIST|RTK": 1,
+        "aBMP": 1
+      },
+      {
+        "SMAD2_3|SNAI1": 1,
+        "SMAD5": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "OVOL1": 1,
+        "SMAD2_3|SNAI1": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "SMAD7": 0,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "SMAD7": 0,
+        "aTGFB|TGFB_R": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "SMAD5|OVOL1": 1,
+        "SMAD7": 0,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "SMAD7": 0,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "ERK": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "SMAD2_3": 1,
+        "TGFB_R|PI3K_AKT": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "ERK": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "GF|RTK": 1,
+        "SNAI1": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "GF|RTK": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "BMP_R": 1,
+        "GF|RTK": 1,
+        "SMAD2_3|SNAI1": 1
+      },
+      {
+        "BMP": 1,
+        "GF|RTK": 1,
+        "SMAD2_3|SNAI1": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "RTK": 1,
+        "SMAD2_3|SNAI1": 1
+      },
+      {
+        "BMP": 1,
+        "GF|RTK": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "RTK": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP_R": 1,
+        "GF|RTK": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "GF|RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SNAI1": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SMAD2_3": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "GF|RTK": 1,
+        "ZEB1": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "ERK": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "RTK": 1,
+        "SMAD2_3|SNAI1": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "RTK": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "SNAI1": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "BMP": 1,
+        "SMAD2_3|SNAI1": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "BMP_R": 1,
+        "SMAD2_3|SNAI1": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "SMAD2_3": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "TWIST|RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "BMP_R": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "SNAI1": 1,
+        "TWIST|RTK": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "SMAD2_3": 1,
+        "TWIST|RTK": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "TWIST|RTK": 1,
+        "ZEB1": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "GF": 1,
+        "SMAD2_3|SNAI1": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "GF": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "GF": 1,
+        "SMAD2_3|SNAI1": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "GF": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP_R": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "SMAD2_3": 1,
+        "TGFB_R|PI3K_AKT": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "SNAI1": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "RTK|PI3K_AKT": 1,
+        "SNAI1": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "SMAD2_3": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "RTK|PI3K_AKT": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "RTK|PI3K_AKT": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "mBMP": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "aBMP": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "SMAD5": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "OVOL1": 1,
+        "RTK|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP_R": 1,
+        "RTK|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP": 1,
+        "RTK|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "GF|RTK": 1,
+        "SNAI1": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "SNAI1": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "GF|RTK": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "ERK": 1,
+        "SMAD5|OVOL1": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "SMAD5|OVOL1": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "SMAD7": 0,
+        "TGFB_L|TGFB_R": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "SMAD7": 0,
+        "TGFB_L|TGFB_R": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "SMAD7": 0,
+        "TGFB_L|TGFB_R": 1
+      },
+      {
+        "SMAD7": 0,
+        "TGFB_L|TGFB_R": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "SMAD7": 0,
+        "TGFB_L|TGFB_R": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "SMAD7": 0,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "SMAD7": 0,
+        "aBMP|BMP_R": 1,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "SMAD2_3": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "SMAD2_3": 1,
+        "SMAD5|OVOL1": 1,
+        "TGFB_R|PI3K_AKT": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SMAD5|OVOL1": 1,
+        "SNAI1": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SMAD2_3": 1,
+        "SMAD5|OVOL1": 1
+      },
+      {
+        "SMAD5|OVOL1": 1,
+        "SNAI1": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "SMAD2_3": 1,
+        "SMAD5|OVOL1": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "RTK": 1,
+        "SMAD5|OVOL1": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "GF": 1,
+        "SMAD5|OVOL1": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "RTK": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "GF": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "SMAD2_3": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "SMAD2_3": 1,
+        "SMAD5|OVOL1": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "RTK|PI3K_AKT": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "RTK|PI3K_AKT": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "SNAI1": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "SNAI1": 1,
+        "TGFB_R|PI3K_AKT": 1
+      },
+      {
+        "SMAD5|OVOL1": 1,
+        "SNAI1": 1,
+        "TGFB_R|PI3K_AKT": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "SNAI1": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "SMAD2_3": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "RTK|PI3K_AKT": 1,
+        "SNAI1": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "SMAD5|OVOL1": 1,
+        "SNAI1": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "SMAD7": 0,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "SMAD7": 0,
+        "TGFB_L|TGFB_R": 1
+      },
+      {
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L|TGFB_R": 1,
+        "mBMP": 1
+      },
+      {
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L|TGFB_R": 1,
+        "aBMP": 1
+      },
+      {
+        "OVOL1": 1,
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L|TGFB_R": 1
+      },
+      {
+        "SMAD5": 1,
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L|TGFB_R": 1
+      },
+      {
+        "SMAD7|TGFB_R": 0,
+        "aBMP": 1,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "SMAD7|TGFB_R": 0,
+        "aTGFB|TGFB_R": 1,
+        "mBMP": 1
+      },
+      {
+        "OVOL1": 1,
+        "SMAD7|TGFB_R": 0,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "SMAD5": 1,
+        "SMAD7|TGFB_R": 0,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "SMAD5|OVOL1": 1,
+        "SMAD7": 0,
+        "TGFB_L|TGFB_R": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "SMAD7|TGFB_R": 0,
+        "aTGFB": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "SMAD7|TGFB_R": 0,
+        "aTGFB": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "SMAD7|TGFB_R": 0,
+        "aTGFB": 1
+      },
+      {
+        "SMAD5|OVOL1": 1,
+        "SMAD7|TGFB_R": 0,
+        "aTGFB": 1
+      },
+      {
+        "BMP": 1,
+        "SMAD7|TGFB_R": 0,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "BMP": 1,
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L|TGFB_R": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L": 1
+      },
+      {
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L": 1
+      },
+      {
+        "SMAD5|OVOL1": 1,
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L": 1
+      },
+      {
+        "BMP_R": 1,
+        "SMAD7|TGFB_R": 0,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "BMP_R": 1,
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L|TGFB_R": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L": 1
+      },
+      {
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "SMAD7|TGFB_R": 0,
+        "aTGFB": 1
+      },
+      {
+        "SMAD7|TGFB_R": 0,
+        "aBMP|BMP_R": 1,
+        "aTGFB": 1
+      },
+      {
+        "Me": 0,
+        "SMAD7|TGFB_R": 0,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "Me": 0,
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L|TGFB_R": 1
+      },
+      {
+        "GF|RTK": 1,
+        "Me": 0,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "Me": 0,
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "Me": 0,
+        "TGFB_R|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "Me": 0,
+        "RTK|PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "GF|RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "TWIST|RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SMAD5|OVOL1": 1,
+        "ZEB1": 1
+      },
+      {
+        "SMAD5|OVOL1": 1,
+        "TWIST|RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "TGFB_R|PI3K_AKT": 1,
+        "ZEB1": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "SMAD5|OVOL1": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "RTK|PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "RTK|PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "ZEB1": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "SMAD5|OVOL1": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "RTK|PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "ZEB1": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "RTK|PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "GF": 1,
+        "SMAD2_3|SNAI1": 1,
+        "SMAD5|OVOL1": 1
+      },
+      {
+        "RTK": 1,
+        "SMAD2_3|SNAI1": 1,
+        "SMAD5|OVOL1": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "GF": 1,
+        "SMAD2_3|SNAI1": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "RTK": 1,
+        "SMAD2_3|SNAI1": 1
+      },
+      {
+        "SMAD2_3|SNAI1": 1,
+        "TWIST": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "SMAD2_3|SNAI1": 1,
+        "TWIST": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST": 1
+      },
+      {
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST": 1
+      },
+      {
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "SMAD2_3|SNAI1": 1,
+        "TWIST": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "SMAD5|OVOL1": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST": 1
+      },
+      {
+        "SMAD2_3|SNAI1": 1,
+        "SMAD5|OVOL1": 1,
+        "TWIST": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "SMAD2_3|SNAI1": 1,
+        "TWIST": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "SMAD7|TGFB_R": 0,
+        "TWIST": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "SMAD7|TGFB_R": 0,
+        "TWIST": 1
+      },
+      {
+        "SMAD7|TGFB_R": 0,
+        "TWIST": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "SMAD5|OVOL1": 1,
+        "SMAD7|TGFB_R": 0,
+        "TWIST": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "SMAD7|TGFB_R": 0,
+        "TWIST": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "SMAD7|TGFB_R": 0,
+        "TWIST": 1
+      },
+      {
+        "SMAD7|TGFB_R": 0,
+        "TWIST": 1,
+        "aBMP|BMP_R": 1
+      }
+    ],
+    "n2_e1": [
+      {
+        "BMP_R": 1,
+        "SMAD7|TGFB_R": 0,
+        "aTGFB": 1
+      },
+      {
+        "SMAD7|TGFB_R": 0,
+        "aBMP": 1,
+        "aTGFB": 1
+      },
+      {
+        "SMAD5": 1,
+        "SMAD7|TGFB_R": 0,
+        "aTGFB": 1
+      },
+      {
+        "BMP": 1,
+        "RTK|PI3K_AKT": 1,
+        "SNAI1": 1
+      },
+      {
+        "OVOL1": 1,
+        "RTK|PI3K_AKT": 1,
+        "SNAI1": 1
+      },
+      {
+        "SNAI1": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "mBMP": 1
+      },
+      {
+        "OVOL1": 1,
+        "SNAI1": 1,
+        "TGFB_R|PI3K_AKT": 1
+      },
+      {
+        "BMP": 1,
+        "SNAI1": 1,
+        "TGFB_R|PI3K_AKT": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "SNAI1": 1,
+        "mBMP": 1
+      },
+      {
+        "Me": 0,
+        "RTK|PI3K_AKT": 1,
+        "SNAI1": 1
+      },
+      {
+        "Me": 0,
+        "SNAI1": 1,
+        "TGFB_R|PI3K_AKT": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SMAD2_3": 1,
+        "SMAD5": 1
+      },
+      {
+        "ERK": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "mBMP": 1
+      },
+      {
+        "ERK": 1,
+        "OVOL1": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "GF|RTK": 1,
+        "OVOL1": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "RTK": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "ERK": 1,
+        "OVOL1|Me": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "ERK": 1,
+        "SMAD2_3": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "RTK": 1,
+        "SMAD2_3": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "GF": 1,
+        "OVOL1": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "GF": 1,
+        "SMAD5": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "GF|RTK": 1,
+        "OVOL1": 1,
+        "SNAI1": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SMAD5": 1,
+        "SNAI1": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SNAI1": 1,
+        "aBMP": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SNAI1": 1,
+        "mBMP": 1
+      },
+      {
+        "GF": 1,
+        "SNAI1": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "GF": 1,
+        "OVOL1|Me": 1,
+        "SNAI1": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "GF": 1,
+        "SNAI1": 1
+      },
+      {
+        "ERK": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "aBMP": 1
+      },
+      {
+        "BMP_R": 1,
+        "ERK": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP": 1,
+        "ERK": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "ERK": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "GF": 1,
+        "SMAD2_3|SNAI1": 1,
+        "mBMP": 1
+      },
+      {
+        "GF": 1,
+        "SMAD2_3|SNAI1": 1,
+        "aBMP": 1
+      },
+      {
+        "GF": 1,
+        "SMAD2_3|SNAI1": 1,
+        "SMAD5": 1
+      },
+      {
+        "GF": 1,
+        "OVOL1": 1,
+        "SMAD2_3|SNAI1": 1
+      },
+      {
+        "ERK": 1,
+        "SMAD5": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "GF": 1,
+        "OVOL1|Me": 1,
+        "ZEB1": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "GF": 1,
+        "ZEB1": 1
+      },
+      {
+        "GF": 1,
+        "ZEB1": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "GF|RTK": 1,
+        "ZEB1": 1,
+        "mBMP": 1
+      },
+      {
+        "GF|RTK": 1,
+        "ZEB1": 1,
+        "aBMP": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SMAD5": 1,
+        "ZEB1": 1
+      },
+      {
+        "GF|RTK": 1,
+        "OVOL1": 1,
+        "ZEB1": 1
+      },
+      {
+        "GF": 1,
+        "OVOL1|Me": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "GF": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "GF": 1,
+        "SMAD2_3": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "GF": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "mBMP": 1
+      },
+      {
+        "GF": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "aBMP": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SMAD2_3": 1,
+        "aBMP": 1
+      },
+      {
+        "GF|RTK": 1,
+        "SMAD2_3": 1,
+        "mBMP": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "RTK": 1,
+        "SNAI1": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "RTK": 1,
+        "SNAI1": 1
+      },
+      {
+        "RTK": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "aBMP": 1
+      },
+      {
+        "RTK": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "mBMP": 1
+      },
+      {
+        "OVOL1": 1,
+        "RTK": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "RTK": 1,
+        "SMAD5": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "RTK": 1,
+        "SMAD2_3|SNAI1": 1,
+        "mBMP": 1
+      },
+      {
+        "RTK": 1,
+        "SMAD2_3|SNAI1": 1,
+        "aBMP": 1
+      },
+      {
+        "OVOL1": 1,
+        "RTK": 1,
+        "SMAD2_3|SNAI1": 1
+      },
+      {
+        "RTK": 1,
+        "SMAD2_3|SNAI1": 1,
+        "SMAD5": 1
+      },
+      {
+        "RTK": 1,
+        "SNAI1": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "RTK": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "RTK": 1,
+        "ZEB1": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "PI3K_AKT": 1,
+        "SNAI1": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "PI3K_AKT": 1,
+        "SNAI1": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "SNAI1": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "PI3K_AKT": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "PI3K_AKT": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "SMAD2_3": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "ZEB1": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "mBMP": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "aBMP": 1
+      },
+      {
+        "OVOL1": 1,
+        "PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "SMAD5": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "SNAI1": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "aBMP": 1
+      },
+      {
+        "SMAD5": 1,
+        "SNAI1": 1,
+        "TGFB_R|PI3K_AKT": 1
+      },
+      {
+        "TGFB_R|PI3K_AKT": 1,
+        "ZEB1": 1,
+        "mBMP": 1
+      },
+      {
+        "TGFB_R|PI3K_AKT": 1,
+        "ZEB1": 1,
+        "aBMP": 1
+      },
+      {
+        "SMAD5": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "SMAD2_3": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "mBMP": 1
+      },
+      {
+        "SMAD2_3": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "aBMP": 1
+      },
+      {
+        "SMAD2_3": 1,
+        "SMAD5": 1,
+        "TGFB_R|PI3K_AKT": 1
+      },
+      {
+        "OVOL1": 1,
+        "SMAD2_3": 1,
+        "TGFB_R|PI3K_AKT": 1
+      },
+      {
+        "OVOL1": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "SNAI1": 1,
+        "TWIST|RTK": 1,
+        "aBMP": 1
+      },
+      {
+        "SNAI1": 1,
+        "TWIST|RTK": 1,
+        "mBMP": 1
+      },
+      {
+        "SMAD5": 1,
+        "SNAI1": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "SMAD2_3": 1,
+        "TWIST|RTK": 1,
+        "aBMP": 1
+      },
+      {
+        "SMAD2_3": 1,
+        "TWIST|RTK": 1,
+        "mBMP": 1
+      },
+      {
+        "SMAD2_3": 1,
+        "SMAD5": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "OVOL1": 1,
+        "SNAI1": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "OVOL1": 1,
+        "SMAD2_3": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "TWIST|RTK": 1,
+        "ZEB1": 1,
+        "mBMP": 1
+      },
+      {
+        "TWIST|RTK": 1,
+        "ZEB1": 1,
+        "aBMP": 1
+      },
+      {
+        "SMAD5": 1,
+        "TWIST|RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "OVOL1": 1,
+        "TWIST|RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "ERK": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "ERK": 1,
+        "SMAD2_3": 1,
+        "SMAD5|OVOL1": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "SMAD7": 0,
+        "TGFB_L": 1
+      },
+      {
+        "SMAD7": 0,
+        "TGFB_L": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "SMAD5|OVOL1": 1,
+        "SMAD7": 0,
+        "TGFB_L": 1
+      },
+      {
+        "SMAD7": 0,
+        "aTGFB|TGFB_R": 1,
+        "mBMP": 1
+      },
+      {
+        "SMAD7": 0,
+        "aBMP": 1,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "OVOL1": 1,
+        "SMAD7": 0,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "SMAD5": 1,
+        "SMAD7": 0,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "SMAD7": 0,
+        "TGFB_L": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "PI3K_AKT": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "ERK": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "ERK": 1,
+        "SMAD2_3": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "RTK": 1,
+        "SNAI1": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "RTK": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "BMP_R": 1,
+        "GF|RTK": 1,
+        "SNAI1": 1
+      },
+      {
+        "BMP_R": 1,
+        "GF|RTK": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "BMP": 1,
+        "GF|RTK": 1,
+        "SNAI1": 1
+      },
+      {
+        "BMP": 1,
+        "GF|RTK": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "BMP": 1,
+        "RTK": 1,
+        "SMAD2_3|SNAI1": 1
+      },
+      {
+        "BMP_R": 1,
+        "RTK": 1,
+        "SMAD2_3|SNAI1": 1
+      },
+      {
+        "BMP": 1,
+        "RTK": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP_R": 1,
+        "RTK": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP": 1,
+        "GF|RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP_R": 1,
+        "GF|RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "RTK": 1,
+        "SNAI1": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "RTK": 1,
+        "SMAD2_3": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "RTK": 1,
+        "ZEB1": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "BMP": 1,
+        "SNAI1": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "BMP_R": 1,
+        "SNAI1": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "BMP": 1,
+        "SMAD2_3": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "BMP_R": 1,
+        "SMAD2_3": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "BMP": 1,
+        "TWIST|RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP_R": 1,
+        "TWIST|RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "GF": 1,
+        "SNAI1": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "GF": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "BMP_R": 1,
+        "GF": 1,
+        "SMAD2_3|SNAI1": 1
+      },
+      {
+        "BMP": 1,
+        "GF": 1,
+        "SMAD2_3|SNAI1": 1
+      },
+      {
+        "BMP_R": 1,
+        "GF": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP": 1,
+        "GF": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "GF": 1,
+        "ZEB1": 1
+      },
+      {
+        "GF": 1,
+        "SNAI1": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "GF": 1,
+        "SMAD2_3": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "GF": 1,
+        "ZEB1": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "PI3K_AKT": 1,
+        "SNAI1": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "PI3K_AKT": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "BMP_R": 1,
+        "PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP": 1,
+        "PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "BMP_R": 1,
+        "SNAI1": 1,
+        "TGFB_R|PI3K_AKT": 1
+      },
+      {
+        "BMP_R": 1,
+        "SMAD2_3": 1,
+        "TGFB_R|PI3K_AKT": 1
+      },
+      {
+        "BMP": 1,
+        "SMAD2_3": 1,
+        "TGFB_R|PI3K_AKT": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "SNAI1": 1,
+        "aBMP": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "SMAD5": 1,
+        "SNAI1": 1
+      },
+      {
+        "BMP_R": 1,
+        "RTK|PI3K_AKT": 1,
+        "SNAI1": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "SMAD2_3": 1,
+        "mBMP": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "SMAD2_3": 1,
+        "aBMP": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "SMAD2_3": 1,
+        "SMAD5": 1
+      },
+      {
+        "OVOL1": 1,
+        "RTK|PI3K_AKT": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "BMP_R": 1,
+        "RTK|PI3K_AKT": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "BMP": 1,
+        "RTK|PI3K_AKT": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "RTK": 1,
+        "SNAI1": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "GF": 1,
+        "SNAI1": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "PI3K_AKT": 1,
+        "SNAI1": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "SNAI1": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "SMAD2_3": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "SMAD5|OVOL1": 1,
+        "SNAI1": 1
+      },
+      {
+        "SMAD7": 0,
+        "TGFB_L|TGFB_R": 1,
+        "mBMP": 1
+      },
+      {
+        "SMAD7": 0,
+        "TGFB_L|TGFB_R": 1,
+        "aBMP": 1
+      },
+      {
+        "BMP_R": 1,
+        "SMAD7": 0,
+        "TGFB_L|TGFB_R": 1
+      },
+      {
+        "BMP": 1,
+        "SMAD7": 0,
+        "TGFB_L|TGFB_R": 1
+      },
+      {
+        "SMAD5": 1,
+        "SMAD7": 0,
+        "TGFB_L|TGFB_R": 1
+      },
+      {
+        "BMP_R": 1,
+        "SMAD7": 0,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "BMP": 1,
+        "SMAD7": 0,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "SMAD2_3": 1,
+        "SMAD5|OVOL1": 1
+      },
+      {
+        "RTK": 1,
+        "SMAD5|OVOL1": 1,
+        "SNAI1": 1
+      },
+      {
+        "RTK": 1,
+        "SMAD2_3": 1,
+        "SMAD5|OVOL1": 1
+      },
+      {
+        "GF": 1,
+        "SMAD5|OVOL1": 1,
+        "SNAI1": 1
+      },
+      {
+        "GF": 1,
+        "SMAD2_3": 1,
+        "SMAD5|OVOL1": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "RTK": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "GF": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "OVOL1": 1,
+        "SMAD7": 0,
+        "TGFB_L|TGFB_R": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "SMAD7": 0,
+        "aTGFB": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "SMAD7": 0,
+        "aTGFB": 1
+      },
+      {
+        "SMAD7": 0,
+        "aTGFB": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "SMAD7": 0,
+        "aTGFB": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "SMAD7": 0,
+        "aTGFB": 1
+      },
+      {
+        "SMAD7": 0,
+        "aBMP|BMP_R": 1,
+        "aTGFB": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "SMAD7": 0,
+        "TGFB_L": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "SMAD7": 0,
+        "TGFB_L": 1
+      },
+      {
+        "SMAD7": 0,
+        "TGFB_L": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "SMAD5|OVOL1": 1,
+        "SMAD7": 0,
+        "aTGFB": 1
+      },
+      {
+        "SMAD7|TGFB_R": 0,
+        "aTGFB": 1,
+        "mBMP": 1
+      },
+      {
+        "OVOL1": 1,
+        "SMAD7|TGFB_R": 0,
+        "aTGFB": 1
+      },
+      {
+        "BMP": 1,
+        "SMAD7|TGFB_R": 0,
+        "aTGFB": 1
+      },
+      {
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L": 1,
+        "aBMP": 1
+      },
+      {
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L": 1,
+        "mBMP": 1
+      },
+      {
+        "SMAD5": 1,
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L": 1
+      },
+      {
+        "OVOL1": 1,
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L": 1
+      },
+      {
+        "BMP": 1,
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L": 1
+      },
+      {
+        "BMP_R": 1,
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L": 1
+      },
+      {
+        "GF|RTK": 1,
+        "Me": 0,
+        "SNAI1": 1
+      },
+      {
+        "Me": 0,
+        "SMAD7": 0,
+        "aTGFB|TGFB_R": 1
+      },
+      {
+        "Me": 0,
+        "SMAD7": 0,
+        "TGFB_L|TGFB_R": 1
+      },
+      {
+        "GF|RTK": 1,
+        "Me": 0,
+        "SMAD2_3": 1
+      },
+      {
+        "Me": 0,
+        "SMAD2_3": 1,
+        "TGFB_R|PI3K_AKT": 1
+      },
+      {
+        "Me": 0,
+        "SNAI1": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "Me": 0,
+        "SMAD2_3": 1,
+        "TWIST|RTK": 1
+      },
+      {
+        "ERK": 1,
+        "Me": 0,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "GF": 1,
+        "Me": 0,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "Me": 0,
+        "RTK": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "Me": 0,
+        "PI3K_AKT": 1,
+        "TGFB_R|SMAD2_3": 1
+      },
+      {
+        "Me": 0,
+        "SMAD7|TGFB_R": 0,
+        "TGFB_L": 1
+      },
+      {
+        "Me": 0,
+        "SMAD7|TGFB_R": 0,
+        "aTGFB": 1
+      },
+      {
+        "Me": 0,
+        "RTK|PI3K_AKT": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "ZEB1": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "GF|RTK": 1,
+        "Me": 0,
+        "ZEB1": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "GF": 1,
+        "ZEB1": 1
+      },
+      {
+        "Me": 0,
+        "TWIST|RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "RTK": 1,
+        "SMAD5|OVOL1": 1,
+        "ZEB1": 1
+      },
+      {
+        "GF": 1,
+        "SMAD5|OVOL1": 1,
+        "ZEB1": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "SMAD5|OVOL1": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP_R": 1,
+        "TGFB_R|PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "Me": 0,
+        "TGFB_R|PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "ZEB1": 1,
+        "mBMP": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "ZEB1": 1,
+        "aBMP": 1
+      },
+      {
+        "OVOL1": 1,
+        "RTK|PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "RTK|PI3K_AKT": 1,
+        "SMAD5": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP": 1,
+        "RTK|PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP_R": 1,
+        "RTK|PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "Me": 0,
+        "RTK|PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "SNAI1": 1,
+        "TWIST": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "SMAD2_3": 1,
+        "TWIST": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "SNAI1": 1,
+        "TWIST": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "SMAD2_3": 1,
+        "TWIST": 1
+      },
+      {
+        "SMAD2_3|SNAI1": 1,
+        "TWIST": 1,
+        "mBMP": 1
+      },
+      {
+        "SMAD2_3|SNAI1": 1,
+        "TWIST": 1,
+        "aBMP": 1
+      },
+      {
+        "SMAD2_3|SNAI1": 1,
+        "SMAD5": 1,
+        "TWIST": 1
+      },
+      {
+        "OVOL1": 1,
+        "SMAD2_3|SNAI1": 1,
+        "TWIST": 1
+      },
+      {
+        "SNAI1": 1,
+        "TWIST": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "SMAD2_3": 1,
+        "TWIST": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "BMP": 1,
+        "SMAD2_3|SNAI1": 1,
+        "TWIST": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "TWIST": 1,
+        "ZEB1": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "TWIST": 1,
+        "ZEB1": 1
+      },
+      {
+        "TWIST": 1,
+        "ZEB1": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "BMP_R": 1,
+        "SMAD2_3|SNAI1": 1,
+        "TWIST": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "SNAI1": 1,
+        "TWIST": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "SMAD2_3": 1,
+        "TWIST": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "TWIST": 1,
+        "ZEB1": 1
+      },
+      {
+        "OVOL1": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST": 1
+      },
+      {
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST": 1,
+        "mBMP": 1
+      },
+      {
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST": 1,
+        "aBMP": 1
+      },
+      {
+        "SMAD5": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST": 1
+      },
+      {
+        "BMP_R": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST": 1
+      },
+      {
+        "BMP": 1,
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST": 1
+      },
+      {
+        "Me": 0,
+        "TGFB_R|SMAD2_3": 1,
+        "TWIST": 1
+      },
+      {
+        "OVOL1|Me": 1,
+        "SMAD7": 0,
+        "TWIST": 1
+      },
+      {
+        "AdhJunc|Me": 1,
+        "SMAD7": 0,
+        "TWIST": 1
+      },
+      {
+        "SMAD7": 0,
+        "TWIST": 1,
+        "mBMP|aBMP": 1
+      },
+      {
+        "BMP|BMP_R": 1,
+        "SMAD7": 0,
+        "TWIST": 1
+      },
+      {
+        "SNAI1": 1,
+        "TWIST": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "SMAD2_3": 1,
+        "TWIST": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "TWIST": 1,
+        "ZEB1": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "SMAD7": 0,
+        "TWIST": 1,
+        "aBMP|BMP_R": 1
+      },
+      {
+        "SMAD5|OVOL1": 1,
+        "SNAI1": 1,
+        "TWIST": 1
+      },
+      {
+        "SMAD2_3": 1,
+        "SMAD5|OVOL1": 1,
+        "TWIST": 1
+      },
+      {
+        "SMAD5|OVOL1": 1,
+        "TWIST": 1,
+        "ZEB1": 1
+      },
+      {
+        "SMAD5|OVOL1": 1,
+        "SMAD7": 0,
+        "TWIST": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "SNAI1": 1,
+        "TWIST": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "SMAD2_3": 1,
+        "TWIST": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "TWIST": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP_R|SMAD5": 1,
+        "SMAD7": 0,
+        "TWIST": 1
+      },
+      {
+        "SMAD7|TGFB_R": 0,
+        "TWIST": 1,
+        "mBMP": 1
+      },
+      {
+        "SMAD7|TGFB_R": 0,
+        "TWIST": 1,
+        "aBMP": 1
+      },
+      {
+        "SMAD5": 1,
+        "SMAD7|TGFB_R": 0,
+        "TWIST": 1
+      },
+      {
+        "OVOL1": 1,
+        "SMAD7|TGFB_R": 0,
+        "TWIST": 1
+      },
+      {
+        "BMP": 1,
+        "SMAD7|TGFB_R": 0,
+        "TWIST": 1
+      },
+      {
+        "BMP_R": 1,
+        "SMAD7|TGFB_R": 0,
+        "TWIST": 1
+      },
+      {
+        "Me": 0,
+        "SMAD7|TGFB_R": 0,
+        "TWIST": 1
+      }
+    ],
+    "n3_e0": [
+      {
+        "RTK": 1,
+        "SMAD2_3": 1,
+        "SMAD5": 1
+      },
+      {
+        "GF": 1,
+        "SMAD2_3": 1,
+        "SMAD5": 1
+      },
+      {
+        "GF": 1,
+        "OVOL1": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "OVOL1": 1,
+        "RTK": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "ERK": 1,
+        "OVOL1": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "ERK": 1,
+        "SMAD2_3": 1,
+        "SMAD5": 1
+      },
+      {
+        "RTK": 1,
+        "SMAD2_3": 1,
+        "aBMP": 1
+      },
+      {
+        "ERK": 1,
+        "SMAD2_3": 1,
+        "aBMP": 1
+      },
+      {
+        "ERK": 1,
+        "SMAD2_3": 1,
+        "mBMP": 1
+      },
+      {
+        "RTK": 1,
+        "SMAD2_3": 1,
+        "mBMP": 1
+      },
+      {
+        "GF": 1,
+        "OVOL1": 1,
+        "SNAI1": 1
+      },
+      {
+        "GF": 1,
+        "SMAD5": 1,
+        "SNAI1": 1
+      },
+      {
+        "GF": 1,
+        "SNAI1": 1,
+        "aBMP": 1
+      },
+      {
+        "GF": 1,
+        "SNAI1": 1,
+        "mBMP": 1
+      },
+      {
+        "BMP": 1,
+        "ERK": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "BMP_R": 1,
+        "ERK": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "GF": 1,
+        "ZEB1": 1,
+        "mBMP": 1
+      },
+      {
+        "GF": 1,
+        "ZEB1": 1,
+        "aBMP": 1
+      },
+      {
+        "GF": 1,
+        "SMAD5": 1,
+        "ZEB1": 1
+      },
+      {
+        "GF": 1,
+        "OVOL1": 1,
+        "ZEB1": 1
+      },
+      {
+        "GF": 1,
+        "SMAD2_3": 1,
+        "aBMP": 1
+      },
+      {
+        "GF": 1,
+        "SMAD2_3": 1,
+        "mBMP": 1
+      },
+      {
+        "RTK": 1,
+        "SNAI1": 1,
+        "mBMP": 1
+      },
+      {
+        "RTK": 1,
+        "SNAI1": 1,
+        "aBMP": 1
+      },
+      {
+        "OVOL1": 1,
+        "RTK": 1,
+        "SNAI1": 1
+      },
+      {
+        "RTK": 1,
+        "SMAD5": 1,
+        "SNAI1": 1
+      },
+      {
+        "RTK": 1,
+        "ZEB1": 1,
+        "mBMP": 1
+      },
+      {
+        "RTK": 1,
+        "ZEB1": 1,
+        "aBMP": 1
+      },
+      {
+        "OVOL1": 1,
+        "RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "RTK": 1,
+        "SMAD5": 1,
+        "ZEB1": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "SNAI1": 1,
+        "mBMP": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "SNAI1": 1,
+        "aBMP": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "SMAD5": 1,
+        "SNAI1": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "SMAD2_3": 1,
+        "mBMP": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "SMAD2_3": 1,
+        "aBMP": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "SMAD2_3": 1,
+        "SMAD5": 1
+      },
+      {
+        "OVOL1": 1,
+        "PI3K_AKT": 1,
+        "SNAI1": 1
+      },
+      {
+        "OVOL1": 1,
+        "PI3K_AKT": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "ZEB1": 1,
+        "aBMP": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "ZEB1": 1,
+        "mBMP": 1
+      },
+      {
+        "OVOL1": 1,
+        "PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "PI3K_AKT": 1,
+        "SMAD5": 1,
+        "ZEB1": 1
+      },
+      {
+        "SMAD7": 0,
+        "TGFB_L": 1,
+        "mBMP": 1
+      },
+      {
+        "SMAD7": 0,
+        "TGFB_L": 1,
+        "aBMP": 1
+      },
+      {
+        "OVOL1": 1,
+        "SMAD7": 0,
+        "TGFB_L": 1
+      },
+      {
+        "SMAD5": 1,
+        "SMAD7": 0,
+        "TGFB_L": 1
+      },
+      {
+        "BMP": 1,
+        "GF": 1,
+        "SNAI1": 1
+      },
+      {
+        "BMP_R": 1,
+        "RTK": 1,
+        "SNAI1": 1
+      },
+      {
+        "BMP_R": 1,
+        "RTK": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "BMP": 1,
+        "RTK": 1,
+        "SNAI1": 1
+      },
+      {
+        "BMP": 1,
+        "RTK": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "BMP": 1,
+        "RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP_R": 1,
+        "RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP": 1,
+        "GF": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "BMP_R": 1,
+        "GF": 1,
+        "SNAI1": 1
+      },
+      {
+        "BMP_R": 1,
+        "GF": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "BMP_R": 1,
+        "GF": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP": 1,
+        "GF": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP_R": 1,
+        "PI3K_AKT": 1,
+        "SNAI1": 1
+      },
+      {
+        "BMP_R": 1,
+        "PI3K_AKT": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "BMP": 1,
+        "PI3K_AKT": 1,
+        "SNAI1": 1
+      },
+      {
+        "BMP": 1,
+        "PI3K_AKT": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "SMAD7": 0,
+        "aBMP": 1,
+        "aTGFB": 1
+      },
+      {
+        "SMAD7": 0,
+        "aTGFB": 1,
+        "mBMP": 1
+      },
+      {
+        "SMAD5": 1,
+        "SMAD7": 0,
+        "aTGFB": 1
+      },
+      {
+        "BMP_R": 1,
+        "SMAD7": 0,
+        "aTGFB": 1
+      },
+      {
+        "BMP": 1,
+        "SMAD7": 0,
+        "aTGFB": 1
+      },
+      {
+        "BMP_R": 1,
+        "SMAD7": 0,
+        "TGFB_L": 1
+      },
+      {
+        "BMP": 1,
+        "SMAD7": 0,
+        "TGFB_L": 1
+      },
+      {
+        "OVOL1": 1,
+        "SMAD7": 0,
+        "aTGFB": 1
+      },
+      {
+        "Me": 0,
+        "PI3K_AKT": 1,
+        "SNAI1": 1
+      },
+      {
+        "GF": 1,
+        "Me": 0,
+        "SNAI1": 1
+      },
+      {
+        "Me": 0,
+        "RTK": 1,
+        "SNAI1": 1
+      },
+      {
+        "ERK": 1,
+        "Me": 0,
+        "SMAD2_3": 1
+      },
+      {
+        "GF": 1,
+        "Me": 0,
+        "SMAD2_3": 1
+      },
+      {
+        "Me": 0,
+        "RTK": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "Me": 0,
+        "PI3K_AKT": 1,
+        "SMAD2_3": 1
+      },
+      {
+        "Me": 0,
+        "SMAD7": 0,
+        "TGFB_L": 1
+      },
+      {
+        "Me": 0,
+        "SMAD7": 0,
+        "aTGFB": 1
+      },
+      {
+        "BMP": 1,
+        "PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP_R": 1,
+        "PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "Me": 0,
+        "PI3K_AKT": 1,
+        "ZEB1": 1
+      },
+      {
+        "Me": 0,
+        "RTK": 1,
+        "ZEB1": 1
+      },
+      {
+        "GF": 1,
+        "Me": 0,
+        "ZEB1": 1
+      },
+      {
+        "SNAI1": 1,
+        "TWIST": 1,
+        "mBMP": 1
+      },
+      {
+        "SNAI1": 1,
+        "TWIST": 1,
+        "aBMP": 1
+      },
+      {
+        "SMAD5": 1,
+        "SNAI1": 1,
+        "TWIST": 1
+      },
+      {
+        "SMAD2_3": 1,
+        "TWIST": 1,
+        "mBMP": 1
+      },
+      {
+        "SMAD2_3": 1,
+        "TWIST": 1,
+        "aBMP": 1
+      },
+      {
+        "SMAD2_3": 1,
+        "SMAD5": 1,
+        "TWIST": 1
+      },
+      {
+        "OVOL1": 1,
+        "SNAI1": 1,
+        "TWIST": 1
+      },
+      {
+        "OVOL1": 1,
+        "SMAD2_3": 1,
+        "TWIST": 1
+      },
+      {
+        "BMP": 1,
+        "SMAD2_3": 1,
+        "TWIST": 1
+      },
+      {
+        "BMP": 1,
+        "SNAI1": 1,
+        "TWIST": 1
+      },
+      {
+        "TWIST": 1,
+        "ZEB1": 1,
+        "aBMP": 1
+      },
+      {
+        "TWIST": 1,
+        "ZEB1": 1,
+        "mBMP": 1
+      },
+      {
+        "OVOL1": 1,
+        "TWIST": 1,
+        "ZEB1": 1
+      },
+      {
+        "SMAD5": 1,
+        "TWIST": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP": 1,
+        "TWIST": 1,
+        "ZEB1": 1
+      },
+      {
+        "BMP_R": 1,
+        "SNAI1": 1,
+        "TWIST": 1
+      },
+      {
+        "BMP_R": 1,
+        "SMAD2_3": 1,
+        "TWIST": 1
+      },
+      {
+        "BMP_R": 1,
+        "TWIST": 1,
+        "ZEB1": 1
+      },
+      {
+        "Me": 0,
+        "SNAI1": 1,
+        "TWIST": 1
+      },
+      {
+        "Me": 0,
+        "SMAD2_3": 1,
+        "TWIST": 1
+      },
+      {
+        "Me": 0,
+        "TWIST": 1,
+        "ZEB1": 1
+      },
+      {
+        "SMAD7": 0,
+        "TWIST": 1,
+        "aBMP": 1
+      },
+      {
+        "SMAD7": 0,
+        "TWIST": 1,
+        "mBMP": 1
+      },
+      {
+        "SMAD5": 1,
+        "SMAD7": 0,
+        "TWIST": 1
+      },
+      {
+        "BMP": 1,
+        "SMAD7": 0,
+        "TWIST": 1
+      },
+      {
+        "BMP_R": 1,
+        "SMAD7": 0,
+        "TWIST": 1
+      },
+      {
+        "OVOL1": 1,
+        "SMAD7": 0,
+        "TWIST": 1
+      },
+      {
+        "Me": 0,
+        "SMAD7": 0,
+        "TWIST": 1
+      }
+    ]
+  }
+}
